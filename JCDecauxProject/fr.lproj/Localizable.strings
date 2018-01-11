@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  JCDecauxProject
+
+  Created by jeremy ballot on 11/12/2017.
+  Copyright © 2017 jeremy ballot. All rights reserved.
+*/
+
+
+"unknown_address"       = "adresse inconnue";
+"Impossible_to_connect" = "Impossible de se connecter";
+"error_loading"         = "erreur chargement";

@@ -1,0 +1,4134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>address</key>
+		<string>ANGLE ALEE ANDRE MURE ET QUAI ANTOINE RIBOUD</string>
+		<key>number</key>
+		<integer>2</integer>
+		<key>longitude</key>
+		<real>4.815747</real>
+		<key>latitude</key>
+		<real>45.743317</real>
+		<key>name</key>
+		<string>CONFLUENCE DARSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant le n°41 rue de la Quarantaine</string>
+		<key>number</key>
+		<integer>5</integer>
+		<key>longitude</key>
+		<real>4.821662</real>
+		<key>latitude</key>
+		<real>45.75197</real>
+		<key>name</key>
+		<string>FULCHIRON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de Marseille</string>
+		<key>number</key>
+		<integer>7035</integer>
+		<key>longitude</key>
+		<real>4.83927</real>
+		<key>latitude</key>
+		<real>45.750945</real>
+		<key>name</key>
+		<string>MARSEILLE / UNIVERSITÉ (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10120</integer>
+		<key>longitude</key>
+		<real>4.871434214976276</real>
+		<key>latitude</key>
+		<real>45.77595050026257</real>
+		<key>name</key>
+		<string>SALENGRO / DESCARTES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant la mairie du 5°</string>
+		<key>number</key>
+		<integer>5016</integer>
+		<key>longitude</key>
+		<real>4.801023</real>
+		<key>latitude</key>
+		<real>45.757581</real>
+		<key>name</key>
+		<string>MAIRIE DU 5°</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de la Navigation</string>
+		<key>number</key>
+		<integer>9013</integer>
+		<key>longitude</key>
+		<real>4.814418</real>
+		<key>latitude</key>
+		<real>45.787522</real>
+		<key>name</key>
+		<string>QUAI PAUL SÉDALLIAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6041</integer>
+		<key>longitude</key>
+		<real>4.859664</real>
+		<key>latitude</key>
+		<real>45.78458</real>
+		<key>name</key>
+		<string>CITÉ INTERNATIONALE / TÊTE D&apos;OR NORD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face Entrée du Parc de la Tête d&apos;Or</string>
+		<key>number</key>
+		<integer>10005</integer>
+		<key>longitude</key>
+		<real>4.860029</real>
+		<key>latitude</key>
+		<real>45.779702</real>
+		<key>name</key>
+		<string>BOULEVARD DU 11 NOVEMBRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle montée de la Boucle</string>
+		<key>number</key>
+		<integer>4012</integer>
+		<key>longitude</key>
+		<real>4.840917</real>
+		<key>latitude</key>
+		<real>45.779186</real>
+		<key>name</key>
+		<string>PLACE ADRIEN GODIEN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3009</integer>
+		<key>longitude</key>
+		<real>4.857919</real>
+		<key>latitude</key>
+		<real>45.750251</real>
+		<key>name</key>
+		<string>MUSEE AFRICAIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10122</integer>
+		<key>longitude</key>
+		<real>4.897102</real>
+		<key>latitude</key>
+		<real>45.784023</real>
+		<key>name</key>
+		<string>VERDUN / DESGRAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10091</integer>
+		<key>longitude</key>
+		<real>4.887977</real>
+		<key>latitude</key>
+		<real>45.774754</real>
+		<key>name</key>
+		<string>CHÂTEAU GAILLARD / FORT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10113</integer>
+		<key>longitude</key>
+		<real>4.891542</real>
+		<key>latitude</key>
+		<real>45.755768</real>
+		<key>name</key>
+		<string>GARE DE VILLEURBANNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face au 45 quai Gillet</string>
+		<key>number</key>
+		<integer>4023</integer>
+		<key>longitude</key>
+		<real>4.810523</real>
+		<key>latitude</key>
+		<real>45.777961</real>
+		<key>name</key>
+		<string>PONT MAZARYK</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3066</integer>
+		<key>longitude</key>
+		<real>4.86359</real>
+		<key>latitude</key>
+		<real>45.754296</real>
+		<key>name</key>
+		<string>KIMMERLING / FAURE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Jean Jaurès - Angle rue de la Guillotière</string>
+		<key>number</key>
+		<integer>7008</integer>
+		<key>longitude</key>
+		<real>4.846278</real>
+		<key>latitude</key>
+		<real>45.75251</real>
+		<key>name</key>
+		<string>JEAN JAURÈS / GUILLOTIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Entre rue Victor Hugo et rue d&apos;Auvergne</string>
+		<key>number</key>
+		<integer>2023</integer>
+		<key>longitude</key>
+		<real>4.829927</real>
+		<key>latitude</key>
+		<real>45.754688</real>
+		<key>name</key>
+		<string> HUGO / STE HÉLÈNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8061</integer>
+		<key>longitude</key>
+		<real>4.881292</real>
+		<key>latitude</key>
+		<real>45.725403</real>
+		<key>name</key>
+		<string>STADE VUILLERMET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Côté nord de la place, vers l&apos;ascenseur</string>
+		<key>number</key>
+		<integer>2013</integer>
+		<key>longitude</key>
+		<real>4.832111</real>
+		<key>latitude</key>
+		<real>45.759932</real>
+		<key>name</key>
+		<string>CÉLESTINS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10119</integer>
+		<key>longitude</key>
+		<real>4.904505</real>
+		<key>latitude</key>
+		<real>45.780422</real>
+		<key>name</key>
+		<string>VILLEURBANNE SAINT JEAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7053</integer>
+		<key>longitude</key>
+		<real>4.845048</real>
+		<key>latitude</key>
+		<real>45.750344</real>
+		<key>name</key>
+		<string>JAURÈS / THIBAUDIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>A côté de l&apos;église</string>
+		<key>number</key>
+		<integer>3012</integer>
+		<key>longitude</key>
+		<real>4.887311</real>
+		<key>latitude</key>
+		<real>45.749565</real>
+		<key>name</key>
+		<string>PLACE DU CHÂTEAU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Denfert-Rochereau / Angle rue Jacquart</string>
+		<key>number</key>
+		<integer>4009</integer>
+		<key>longitude</key>
+		<real>4.825394</real>
+		<key>latitude</key>
+		<real>45.77591</real>
+		<key>name</key>
+		<string>JACQUARD / DENFERT-ROCHEREAU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Colin - Angle rue Ottavi</string>
+		<key>number</key>
+		<integer>10089</integer>
+		<key>longitude</key>
+		<real>4.874137</real>
+		<key>latitude</key>
+		<real>45.773057</real>
+		<key>name</key>
+		<string>COLIN / OTTAVI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Paul Bert</string>
+		<key>number</key>
+		<integer>3037</integer>
+		<key>longitude</key>
+		<real>4.853405</real>
+		<key>latitude</key>
+		<real>45.757112</real>
+		<key>name</key>
+		<string>PAUL BERT / GARIBALDI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8035</integer>
+		<key>longitude</key>
+		<real>4.865386</real>
+		<key>latitude</key>
+		<real>45.747251</real>
+		<key>name</key>
+		<string>SANS SOUCI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face parvis du palais des congrès</string>
+		<key>number</key>
+		<integer>6035</integer>
+		<key>longitude</key>
+		<real>4.854085</real>
+		<key>latitude</key>
+		<real>45.785456</real>
+		<key>name</key>
+		<string>CITÉ INTERNATIONALE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Horand / rue Masset</string>
+		<key>number</key>
+		<integer>9020</integer>
+		<key>longitude</key>
+		<real>4.800286</real>
+		<key>latitude</key>
+		<real>45.773468</real>
+		<key>name</key>
+		<string>BOURBONNAIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Tupin / rue Herriot</string>
+		<key>number</key>
+		<integer>2016</integer>
+		<key>longitude</key>
+		<real>4.83425</real>
+		<key>latitude</key>
+		<real>45.763065</real>
+		<key>name</key>
+		<string>PLACE REGAUD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Prox. Quai Pierre Scize</string>
+		<key>number</key>
+		<integer>5029</integer>
+		<key>longitude</key>
+		<real>4.827014</real>
+		<key>latitude</key>
+		<real>45.767057</real>
+		<key>name</key>
+		<string>PLACE GERSON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Anatole France/Angle av Barbusse</string>
+		<key>number</key>
+		<integer>10079</integer>
+		<key>longitude</key>
+		<real>4.879096</real>
+		<key>latitude</key>
+		<real>45.768127</real>
+		<key>name</key>
+		<string>ANATOLE FRANCE / BARBUSSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>174–180 Avenue Jean Jaurès 69007 Lyon</string>
+		<key>number</key>
+		<integer>7009</integer>
+		<key>longitude</key>
+		<real>4.837484</real>
+		<key>latitude</key>
+		<real>45.737503</real>
+		<key>name</key>
+		<string>JEAN JAURÈS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7045</integer>
+		<key>longitude</key>
+		<real>4.824495</real>
+		<key>latitude</key>
+		<real>45.737745</real>
+		<key>name</key>
+		<string>PARC DES BERGES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Florian/Angle Cours Tolstoï</string>
+		<key>number</key>
+		<integer>10018</integer>
+		<key>longitude</key>
+		<real>4.880735</real>
+		<key>latitude</key>
+		<real>45.761801</real>
+		<key>name</key>
+		<string>TOLSTOÏ / FLORIAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle cours Tolstoï</string>
+		<key>number</key>
+		<integer>10021</integer>
+		<key>longitude</key>
+		<real>4.889938</real>
+		<key>latitude</key>
+		<real>45.759743</real>
+		<key>name</key>
+		<string>10021- GRANDCLÉMENT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6044</integer>
+		<key>longitude</key>
+		<real>4.865058</real>
+		<key>latitude</key>
+		<real>45.766372</real>
+		<key>name</key>
+		<string>CHARMETTES / BELLECOMBE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3008</integer>
+		<key>longitude</key>
+		<real>4.870631</real>
+		<key>latitude</key>
+		<real>45.745828</real>
+		<key>name</key>
+		<string>INSTITUT LUMIERE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2036</integer>
+		<key>longitude</key>
+		<real>4.830161</real>
+		<key>latitude</key>
+		<real>45.759494</real>
+		<key>name</key>
+		<string>PLACE GOURJU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Vauban</string>
+		<key>number</key>
+		<integer>6032</integer>
+		<key>longitude</key>
+		<real>4.841567</real>
+		<key>latitude</key>
+		<real>45.764821</real>
+		<key>name</key>
+		<string>PRÉFECTURE / SARRAIL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue du Professeur Beauvisage</string>
+		<key>number</key>
+		<integer>8008</integer>
+		<key>longitude</key>
+		<real>4.86355</real>
+		<key>latitude</key>
+		<real>45.727881</real>
+		<key>name</key>
+		<string>BEAUVISAGE / PRESSENSÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face ancien Palais de Justice</string>
+		<key>number</key>
+		<integer>5006</integer>
+		<key>longitude</key>
+		<real>4.82872732991442</real>
+		<key>latitude</key>
+		<real>45.7620452080746</real>
+		<key>name</key>
+		<string>QUAI ROMAIN ROLLAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10014</integer>
+		<key>longitude</key>
+		<real>4.909808</real>
+		<key>latitude</key>
+		<real>45.765214</real>
+		<key>name</key>
+		<string>GARE L. BONNEVAY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de la Martinière</string>
+		<key>number</key>
+		<integer>1013</integer>
+		<key>longitude</key>
+		<real>4.827533</real>
+		<key>latitude</key>
+		<real>45.768223</real>
+		<key>name</key>
+		<string>MARTINIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9010</integer>
+		<key>longitude</key>
+		<real>4.79644</real>
+		<key>latitude</key>
+		<real>45.771034</real>
+		<key>name</key>
+		<string>PISCINE DE VAISE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face à la poste</string>
+		<key>number</key>
+		<integer>3058</integer>
+		<key>longitude</key>
+		<real>4.853599</real>
+		<key>latitude</key>
+		<real>45.758974</real>
+		<key>name</key>
+		<string>PLACE DU LAC</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Vendôme</string>
+		<key>number</key>
+		<integer>6004</integer>
+		<key>longitude</key>
+		<real>4.844845</real>
+		<key>latitude</key>
+		<real>45.768896</real>
+		<key>name</key>
+		<string>FOCH (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Cours de la République/Angle Anatole France</string>
+		<key>number</key>
+		<integer>10028</integer>
+		<key>longitude</key>
+		<real>4.874032</real>
+		<key>latitude</key>
+		<real>45.767467</real>
+		<key>name</key>
+		<string>ECOLE DE MUSIQUE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10011</integer>
+		<key>longitude</key>
+		<real>4.880491</real>
+		<key>latitude</key>
+		<real>45.769226</real>
+		<key>name</key>
+		<string>GRATTE CIEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Rue de la Guillotiere</string>
+		<key>number</key>
+		<integer>7038</integer>
+		<key>longitude</key>
+		<real>4.85299</real>
+		<key>latitude</key>
+		<real>45.749622</real>
+		<key>name</key>
+		<string>PLACE STALINGRAD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>4025</integer>
+		<key>longitude</key>
+		<real>4.817888</real>
+		<key>latitude</key>
+		<real>45.775425</real>
+		<key>name</key>
+		<string>CHAZIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10111</integer>
+		<key>longitude</key>
+		<real>4.86196</real>
+		<key>latitude</key>
+		<real>45.770309</real>
+		<key>name</key>
+		<string>CHARLES HERNU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5040</integer>
+		<key>longitude</key>
+		<real>4.826103</real>
+		<key>latitude</key>
+		<real>45.757847</real>
+		<key>name</key>
+		<string>PLACE CRÉPU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7024</integer>
+		<key>longitude</key>
+		<real>4.840505</real>
+		<key>latitude</key>
+		<real>45.748504</real>
+		<key>name</key>
+		<string>BANCEL / CHEVREUL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8029</integer>
+		<key>longitude</key>
+		<real>4.865101</real>
+		<key>latitude</key>
+		<real>45.732366</real>
+		<key>name</key>
+		<string>ETATS UNIS LEVIGNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Hénon</string>
+		<key>number</key>
+		<integer>4004</integer>
+		<key>longitude</key>
+		<real>4.827635</real>
+		<key>latitude</key>
+		<real>45.779786</real>
+		<key>name</key>
+		<string>HÉNON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1023</integer>
+		<key>longitude</key>
+		<real>4.819389</real>
+		<key>latitude</key>
+		<real>45.772229</real>
+		<key>name</key>
+		<string>CROIX ROUSSE / PERFETTI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Cours Gambette - Prolongement rue Rachais</string>
+		<key>number</key>
+		<integer>7003</integer>
+		<key>longitude</key>
+		<real>4.8526</real>
+		<key>latitude</key>
+		<real>45.751827</real>
+		<key>name</key>
+		<string>GAMBETTA / GARIBALDI (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>33 Boulevard Yves Farge 69007 Lyon</string>
+		<key>number</key>
+		<integer>7030</integer>
+		<key>longitude</key>
+		<real>4.834165</real>
+		<key>latitude</key>
+		<real>45.743163</real>
+		<key>name</key>
+		<string>QUARTIER GENERAL FRERE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6042</integer>
+		<key>longitude</key>
+		<real>4.856432</real>
+		<key>latitude</key>
+		<real>45.784812</real>
+		<key>name</key>
+		<string>CITÉ INTERNATIONALE - RÉSIDENCE HÔTELIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3086</integer>
+		<key>longitude</key>
+		<real>4.875934</real>
+		<key>latitude</key>
+		<real>45.749563</real>
+		<key>name</key>
+		<string>FEUILLAT / LACASSAGNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8025</integer>
+		<key>longitude</key>
+		<real>4.860889</real>
+		<key>latitude</key>
+		<real>45.744447</real>
+		<key>name</key>
+		<string>DUMONT / JOUVET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8056</integer>
+		<key>longitude</key>
+		<real>4.856888</real>
+		<key>latitude</key>
+		<real>45.73586</real>
+		<key>name</key>
+		<string>DELORE / AUDIBERT ET LAVIROTTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place de la Paix - En face de La Poste</string>
+		<key>number</key>
+		<integer>1031</integer>
+		<key>longitude</key>
+		<real>4.831733</real>
+		<key>latitude</key>
+		<real>45.768023</real>
+		<key>name</key>
+		<string>PLACE DE LA PAIX</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5045</integer>
+		<key>longitude</key>
+		<real>4.792193</real>
+		<key>latitude</key>
+		<real>45.750205</real>
+		<key>name</key>
+		<string>VALDO / RIVET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1036</integer>
+		<key>longitude</key>
+		<real>4.832716</real>
+		<key>latitude</key>
+		<real>45.774366</real>
+		<key>name</key>
+		<string>AVEYRON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Pierre Corneille/cours Franklin Roosevelt</string>
+		<key>number</key>
+		<integer>6022</integer>
+		<key>longitude</key>
+		<real>4.842584</real>
+		<key>latitude</key>
+		<real>45.7694</real>
+		<key>name</key>
+		<string>6022- PLACE MARÉCHAL LYAUTEY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3080</integer>
+		<key>longitude</key>
+		<real>4.861734</real>
+		<key>latitude</key>
+		<real>45.760042</real>
+		<key>name</key>
+		<string>PART-DIEU / VILLETTE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2004</integer>
+		<key>longitude</key>
+		<real>4.82801</real>
+		<key>latitude</key>
+		<real>45.750116</real>
+		<key>name</key>
+		<string>PERRACHE / CARNOT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3101</integer>
+		<key>longitude</key>
+		<real>4.868486</real>
+		<key>latitude</key>
+		<real>45.762055</real>
+		<key>name</key>
+		<string>PATINOIRE BARABAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Bvd de la Croix-Rousse</string>
+		<key>number</key>
+		<integer>4021</integer>
+		<key>longitude</key>
+		<real>4.82516</real>
+		<key>latitude</key>
+		<real>45.774061</real>
+		<key>name</key>
+		<string>TABAREAU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3103</integer>
+		<key>longitude</key>
+		<real>4.857487568665087</real>
+		<key>latitude</key>
+		<real>45.75485023130047</real>
+		<key>name</key>
+		<string>PLACE DANTON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle cours Lafayette</string>
+		<key>number</key>
+		<integer>6031</integer>
+		<key>longitude</key>
+		<real>4.843791</real>
+		<key>latitude</key>
+		<real>45.763717</real>
+		<key>name</key>
+		<string>LAFAYETTE/CORNEILLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9049</integer>
+		<key>longitude</key>
+		<real>4.80516</real>
+		<key>latitude</key>
+		<real>45.770136</real>
+		<key>name</key>
+		<string>SERGENT BERTHET / GORGE DE LOUP</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Route de Vienne - Angle avenue Berthelot</string>
+		<key>number</key>
+		<integer>7023</integer>
+		<key>longitude</key>
+		<real>4.850538</real>
+		<key>latitude</key>
+		<real>45.742639</real>
+		<key>name</key>
+		<string>BERTHELOT / ROUTE DE VIENNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8042</integer>
+		<key>longitude</key>
+		<real>4.860139</real>
+		<key>latitude</key>
+		<real>45.731361</real>
+		<key>name</key>
+		<string>FRANCIS DE PRESSENSÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9044</integer>
+		<key>longitude</key>
+		<real>4.800869</real>
+		<key>latitude</key>
+		<real>45.770508</real>
+		<key>name</key>
+		<string>MASSET / SAINT PIERRE DE VAISE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle cours André Philip</string>
+		<key>number</key>
+		<integer>10075</integer>
+		<key>longitude</key>
+		<real>4.865774</real>
+		<key>latitude</key>
+		<real>45.772277</real>
+		<key>name</key>
+		<string>GABRIEL PÉRI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Anselme, face à l&apos;IUFM</string>
+		<key>number</key>
+		<integer>4006</integer>
+		<key>longitude</key>
+		<real>4.821234</real>
+		<key>latitude</key>
+		<real>45.773358</real>
+		<key>name</key>
+		<string>PHILIPPE DE LASSALLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Le long des grilles, côté ouest de la porte</string>
+		<key>number</key>
+		<integer>6002</integer>
+		<key>longitude</key>
+		<real>4.844922</real>
+		<key>latitude</key>
+		<real>45.777521</real>
+		<key>name</key>
+		<string>PORTE DES ENFANTS DU RHÔNE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Sur le quai haut</string>
+		<key>number</key>
+		<integer>7033</integer>
+		<key>longitude</key>
+		<real>4.834816</real>
+		<key>latitude</key>
+		<real>45.749431</real>
+		<key>name</key>
+		<string>ST LUC / ST JOSEPH (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10016</integer>
+		<key>longitude</key>
+		<real>4.91466</real>
+		<key>latitude</key>
+		<real>45.752074</real>
+		<key>name</key>
+		<string>PLACE DE LA PAIX</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Domer/angle rue Chevreul</string>
+		<key>number</key>
+		<integer>7041</integer>
+		<key>longitude</key>
+		<real>4.844455</real>
+		<key>latitude</key>
+		<real>45.746681</real>
+		<key>name</key>
+		<string>DOMER / CHEVREUL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3071</integer>
+		<key>longitude</key>
+		<real>4.888084</real>
+		<key>latitude</key>
+		<real>45.740492</real>
+		<key>name</key>
+		<string>BIOPARC</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Salvador Allende / Angle promenade du Lys</string>
+		<key>number</key>
+		<integer>10004</integer>
+		<key>longitude</key>
+		<real>4.862636</real>
+		<key>latitude</key>
+		<real>45.776217</real>
+		<key>name</key>
+		<string>TONKIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Tête d&apos;Or</string>
+		<key>number</key>
+		<integer>6028</integer>
+		<key>longitude</key>
+		<real>4.853492</real>
+		<key>latitude</key>
+		<real>45.764345</real>
+		<key>name</key>
+		<string>RECAMMIER / TÊTE D&apos;OR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant la MJC</string>
+		<key>number</key>
+		<integer>10034</integer>
+		<key>longitude</key>
+		<real>4.886156</real>
+		<key>latitude</key>
+		<real>45.761825</real>
+		<key>name</key>
+		<string>DOCTEUR DAMIDOT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6045</integer>
+		<key>longitude</key>
+		<real>4.856848</real>
+		<key>latitude</key>
+		<real>45.766284</real>
+		<key>name</key>
+		<string>BROTTEAUX / VAUBAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5047</integer>
+		<key>longitude</key>
+		<real>4.804401</real>
+		<key>latitude</key>
+		<real>45.753452</real>
+		<key>name</key>
+		<string>ALBÉRIC PONT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9008</integer>
+		<key>longitude</key>
+		<real>4.829038</real>
+		<key>latitude</key>
+		<real>45.797415</real>
+		<key>name</key>
+		<string>L&apos;ILE BARBE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10053</integer>
+		<key>longitude</key>
+		<real>4.863068</real>
+		<key>latitude</key>
+		<real>45.77939</real>
+		<key>name</key>
+		<string>ROSSELINI / 11 NOVEMBRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10110</integer>
+		<key>longitude</key>
+		<real>4.882739</real>
+		<key>latitude</key>
+		<real>45.75958</real>
+		<key>name</key>
+		<string>MÉMOIRE ET SOCIÉTÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8058</integer>
+		<key>longitude</key>
+		<real>4.878117</real>
+		<key>latitude</key>
+		<real>45.738671</real>
+		<key>name</key>
+		<string>LONGEFER / KRUGER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2012</integer>
+		<key>longitude</key>
+		<real>4.833367</real>
+		<key>latitude</key>
+		<real>45.753455</real>
+		<key>name</key>
+		<string>GAILLETON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Côté route de Vienne</string>
+		<key>number</key>
+		<integer>8011</integer>
+		<key>longitude</key>
+		<real>4.853042</real>
+		<key>latitude</key>
+		<real>45.735653</real>
+		<key>name</key>
+		<string>PLACE LEBRET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant la mairie du 4°</string>
+		<key>number</key>
+		<integer>4002</integer>
+		<key>longitude</key>
+		<real>4.827743</real>
+		<key>latitude</key>
+		<real>45.774193</real>
+		<key>name</key>
+		<string>MAIRIE DU 4°</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10092</integer>
+		<key>longitude</key>
+		<real>4.890378</real>
+		<key>latitude</key>
+		<real>45.771561</real>
+		<key>name</key>
+		<string>MONTGOLFIER / CHATEAU GAILLARD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place des Maisons Neuves/Côté rue Jean Jaurès</string>
+		<key>number</key>
+		<integer>10024</integer>
+		<key>longitude</key>
+		<real>4.878336225467921</real>
+		<key>latitude</key>
+		<real>45.7563424627814</real>
+		<key>name</key>
+		<string>Maisons Neuves</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Antoinette</string>
+		<key>number</key>
+		<integer>3013</integer>
+		<key>longitude</key>
+		<real>4.889285</real>
+		<key>latitude</key>
+		<real>45.753683</real>
+		<key>name</key>
+		<string>PLACE ANTOINETTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Professeur Beauvisage/Angle bd des Etats-Unis</string>
+		<key>number</key>
+		<integer>8006</integer>
+		<key>longitude</key>
+		<real>4.868157</real>
+		<key>latitude</key>
+		<real>45.729771</real>
+		<key>name</key>
+		<string>PLACE DU 8 MAI 1945</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face au 2 rue de la Poudrette, Vaulx en Velin</string>
+		<key>number</key>
+		<integer>12002</integer>
+		<key>longitude</key>
+		<real>4.919276</real>
+		<key>latitude</key>
+		<real>45.76438</real>
+		<key>name</key>
+		<string>POUDRETTE LA SOIE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Francis de Pressensé/angle 8 mai 1945</string>
+		<key>number</key>
+		<integer>10049</integer>
+		<key>longitude</key>
+		<real>4.89678</real>
+		<key>latitude</key>
+		<real>45.769158</real>
+		<key>name</key>
+		<string>PRESSENSÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>176–180 Rue de Gerland 69007 Lyon</string>
+		<key>number</key>
+		<integer>7021</integer>
+		<key>longitude</key>
+		<real>4.838138</real>
+		<key>latitude</key>
+		<real>45.729791</real>
+		<key>name</key>
+		<string>7021- CHALLEMEL LACOUR / GERLAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant l&apos;entrée du parc</string>
+		<key>number</key>
+		<integer>6003</integer>
+		<key>longitude</key>
+		<real>4.856274</real>
+		<key>latitude</key>
+		<real>45.772846</real>
+		<key>name</key>
+		<string>AVENUE VERGUIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle av Michelet</string>
+		<key>number</key>
+		<integer>8024</integer>
+		<key>longitude</key>
+		<real>4.878607</real>
+		<key>latitude</key>
+		<real>45.733317</real>
+		<key>name</key>
+		<string>MERMOZ / MICHELET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7007</integer>
+		<key>longitude</key>
+		<real>4.827725</real>
+		<key>latitude</key>
+		<real>45.735741</real>
+		<key>name</key>
+		<string>FARGE / AYASSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Morellet</string>
+		<key>number</key>
+		<integer>6020</integer>
+		<key>longitude</key>
+		<real>4.848443</real>
+		<key>latitude</key>
+		<real>45.774526</real>
+		<key>name</key>
+		<string>MUSÉE GUIMET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>12001</integer>
+		<key>longitude</key>
+		<real>4.920569</real>
+		<key>latitude</key>
+		<real>45.760908</real>
+		<key>name</key>
+		<string>LA SOIE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Galline/angle av. de Condorcet</string>
+		<key>number</key>
+		<integer>10055</integer>
+		<key>longitude</key>
+		<real>4.866976</real>
+		<key>latitude</key>
+		<real>45.776428</real>
+		<key>name</key>
+		<string>CONDORCET / GALLINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5044</integer>
+		<key>longitude</key>
+		<real>4.796561</real>
+		<key>latitude</key>
+		<real>45.7598</real>
+		<key>name</key>
+		<string>CHAMPVERT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Charles Hernu / côté sud</string>
+		<key>number</key>
+		<integer>10006</integer>
+		<key>longitude</key>
+		<real>4.863102</real>
+		<key>latitude</key>
+		<real>45.770225</real>
+		<key>name</key>
+		<string>CHARPENNES (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Vendôme</string>
+		<key>number</key>
+		<integer>6012</integer>
+		<key>longitude</key>
+		<real>4.84459</real>
+		<key>latitude</key>
+		<real>45.771794</real>
+		<key>name</key>
+		<string>PLACE PUVIS DE CHAVANNES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>AVENUE FELIX FAURE ANGLE VIVIER MERLE. 10M AVANT VIVIER MERLE EN DIRECTION DU RHONE</string>
+		<key>number</key>
+		<integer>3036</integer>
+		<key>longitude</key>
+		<real>4.859795</real>
+		<key>latitude</key>
+		<real>45.75381</real>
+		<key>name</key>
+		<string>FELIX FAURE / VIVIER MERLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Docteur Dolard / Angle rue 4 Septembre</string>
+		<key>number</key>
+		<integer>10073</integer>
+		<key>longitude</key>
+		<real>4.872466</real>
+		<key>latitude</key>
+		<real>45.761468</real>
+		<key>name</key>
+		<string>INSTITUT D&apos;ART CONTEMPORAIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2035</integer>
+		<key>longitude</key>
+		<real>4.835776</real>
+		<key>latitude</key>
+		<real>45.759842</real>
+		<key>name</key>
+		<string>CHILDEBERT / RIVIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Emile Duport</string>
+		<key>number</key>
+		<integer>9014</integer>
+		<key>longitude</key>
+		<real>4.812215</real>
+		<key>latitude</key>
+		<real>45.784334</real>
+		<key>name</key>
+		<string>QUAI DU COMMERCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3097</integer>
+		<key>longitude</key>
+		<real>4.840495</real>
+		<key>latitude</key>
+		<real>45.757192</real>
+		<key>name</key>
+		<string>AUGAGNEUR / FOSSE AUX OURS (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Chinard/rue St Cyr</string>
+		<key>number</key>
+		<integer>9022</integer>
+		<key>longitude</key>
+		<real>4.8071</real>
+		<key>latitude</key>
+		<real>45.778639</real>
+		<key>name</key>
+		<string>RUE MASARYK / SAINT CYR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10112</integer>
+		<key>longitude</key>
+		<real>4.885249</real>
+		<key>latitude</key>
+		<real>45.754415</real>
+		<key>name</key>
+		<string>PLACE DE LA RECONNAISSANCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>FACE AU 81 QUAI JOSEPH GILLET</string>
+		<key>number</key>
+		<integer>4024</integer>
+		<key>longitude</key>
+		<real>4.818572</real>
+		<key>latitude</key>
+		<real>45.788204</real>
+		<key>name</key>
+		<string>LYON METROPOLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>170 Boulevard des Etats-Unis, Angle Avenue Viviani, direction Venissieux</string>
+		<key>number</key>
+		<integer>8041</integer>
+		<key>longitude</key>
+		<real>4.870745</real>
+		<key>latitude</key>
+		<real>45.724775</real>
+		<key>name</key>
+		<string>ETATS UNIS / VIVIANI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Meissonier - Angle Sud-Est de la place</string>
+		<key>number</key>
+		<integer>1005</integer>
+		<key>longitude</key>
+		<real>4.832849</real>
+		<key>latitude</key>
+		<real>45.766073</real>
+		<key>name</key>
+		<string>MEISSONNIER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6040</integer>
+		<key>longitude</key>
+		<real>4.849933</real>
+		<key>latitude</key>
+		<real>45.764013</real>
+		<key>name</key>
+		<string>LES HALLES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Plessier</string>
+		<key>number</key>
+		<integer>2022</integer>
+		<key>longitude</key>
+		<real>4.82688</real>
+		<key>latitude</key>
+		<real>45.751233</real>
+		<key>name</key>
+		<string>PLACE CARNOT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Pillement</string>
+		<key>number</key>
+		<integer>4014</integer>
+		<key>longitude</key>
+		<real>4.820526</real>
+		<key>latitude</key>
+		<real>45.777431</real>
+		<key>name</key>
+		<string>PHILIPPE DE LASSALLE / PILLEMENT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant entrée principale de l&apos;université</string>
+		<key>number</key>
+		<integer>8001</integer>
+		<key>longitude</key>
+		<real>4.861533</real>
+		<key>latitude</key>
+		<real>45.748535</real>
+		<key>name</key>
+		<string>UNIVERSITÉ LYON III (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Victor Basch</string>
+		<key>number</key>
+		<integer>3005</integer>
+		<key>longitude</key>
+		<real>4.848043</real>
+		<key>latitude</key>
+		<real>45.75377</real>
+		<key>name</key>
+		<string>SAXE-GAMBETTA (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>ANGLE RUE BILLON / RUE F. DE PRESSENSE</string>
+		<key>number</key>
+		<integer>10121</integer>
+		<key>longitude</key>
+		<real>4.87907</real>
+		<key>latitude</key>
+		<real>45.771912</real>
+		<key>name</key>
+		<string>PARC DU CENTRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10058</integer>
+		<key>longitude</key>
+		<real>4.892467</real>
+		<key>latitude</key>
+		<real>45.767051</real>
+		<key>name</key>
+		<string>MÉTRO FLACHET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7055</integer>
+		<key>longitude</key>
+		<real>4.842051</real>
+		<key>latitude</key>
+		<real>45.746779</real>
+		<key>name</key>
+		<string>SERVANT / JABOULAY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10084</integer>
+		<key>longitude</key>
+		<real>4.871294</real>
+		<key>latitude</key>
+		<real>45.783533</real>
+		<key>name</key>
+		<string>DOUA / AVENUE DES ARTS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8053</integer>
+		<key>longitude</key>
+		<real>4.870083</real>
+		<key>latitude</key>
+		<real>45.743569</real>
+		<key>name</key>
+		<string>LUMIERE / TROUILHET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>4042</integer>
+		<key>longitude</key>
+		<real>4.820596</real>
+		<key>latitude</key>
+		<real>45.781699</real>
+		<key>name</key>
+		<string>GREGORY COUPET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Entre rue Crillon et rue Sully</string>
+		<key>number</key>
+		<integer>6021</integer>
+		<key>longitude</key>
+		<real>4.849946</real>
+		<key>latitude</key>
+		<real>45.770664</real>
+		<key>name</key>
+		<string>6021- GARIBALDI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5053</integer>
+		<key>longitude</key>
+		<real>4.818904</real>
+		<key>latitude</key>
+		<real>45.75597</real>
+		<key>name</key>
+		<string>SAINT JUST</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2037</integer>
+		<key>longitude</key>
+		<real>4.824898</real>
+		<key>latitude</key>
+		<real>45.747956</real>
+		<key>name</key>
+		<string>PLACE DES ARCHIVES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de la République</string>
+		<key>number</key>
+		<integer>2026</integer>
+		<key>longitude</key>
+		<real>4.835414</real>
+		<key>latitude</key>
+		<real>45.759379</real>
+		<key>name</key>
+		<string>RÉPUBLIQUE / PAUFIQUE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Roquette / angle rue de Bourgogne</string>
+		<key>number</key>
+		<integer>9003</integer>
+		<key>longitude</key>
+		<real>4.805314</real>
+		<key>latitude</key>
+		<real>45.775679</real>
+		<key>name</key>
+		<string>PLACE VALMY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2038</integer>
+		<key>longitude</key>
+		<real>4.829706</real>
+		<key>latitude</key>
+		<real>45.753077</real>
+		<key>name</key>
+		<string>REMPARTS D&apos;AINAY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8054</integer>
+		<key>longitude</key>
+		<real>4.868244</real>
+		<key>latitude</key>
+		<real>45.740865</real>
+		<key>name</key>
+		<string>MARTINIERE MONPLAISIR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de la Madeleine</string>
+		<key>number</key>
+		<integer>7039</integer>
+		<key>longitude</key>
+		<real>4.848018</real>
+		<key>latitude</key>
+		<real>45.751073</real>
+		<key>name</key>
+		<string>GUILLOTIÈRE / MADELEINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Jean Jaurès - Au niveau du square Galtier</string>
+		<key>number</key>
+		<integer>7006</integer>
+		<key>longitude</key>
+		<real>4.831145</real>
+		<key>latitude</key>
+		<real>45.727494</real>
+		<key>name</key>
+		<string>GERLAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1006</integer>
+		<key>longitude</key>
+		<real>4.819845</real>
+		<key>latitude</key>
+		<real>45.76791</real>
+		<key>name</key>
+		<string>1006- SUBSISTANCES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Côté Rue Philippe de Lassalle</string>
+		<key>number</key>
+		<integer>4007</integer>
+		<key>longitude</key>
+		<real>4.820259</real>
+		<key>latitude</key>
+		<real>45.779332</real>
+		<key>name</key>
+		<string>PLACE FLAMMARION</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1034</integer>
+		<key>longitude</key>
+		<real>4.829274</real>
+		<key>latitude</key>
+		<real>45.770006</real>
+		<key>name</key>
+		<string>CARMÉLITES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Roger Salengro - Angle rue Vaillant</string>
+		<key>number</key>
+		<integer>10008</integer>
+		<key>longitude</key>
+		<real>4.879673</real>
+		<key>latitude</key>
+		<real>45.778385</real>
+		<key>name</key>
+		<string>SALENGRO / VAILLANT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3083</integer>
+		<key>longitude</key>
+		<real>4.850477</real>
+		<key>latitude</key>
+		<real>45.761595</real>
+		<key>name</key>
+		<string>LES HALLES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle bvd Anatole France</string>
+		<key>number</key>
+		<integer>6024</integer>
+		<key>longitude</key>
+		<real>4.856713</real>
+		<key>latitude</key>
+		<real>45.770743</real>
+		<key>name</key>
+		<string>TRONCHET / ANATOLE FRANCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9052</integer>
+		<key>longitude</key>
+		<real>4.799308</real>
+		<key>latitude</key>
+		<real>45.789194</real>
+		<key>name</key>
+		<string>BALMONT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de France/Angle Cours Emile Zola</string>
+		<key>number</key>
+		<integer>10012</integer>
+		<key>longitude</key>
+		<real>4.887232</real>
+		<key>latitude</key>
+		<real>45.767957</real>
+		<key>name</key>
+		<string>ZOLA / FRANCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Prox. Grande rue de la Croix-Rousse</string>
+		<key>number</key>
+		<integer>4022</integer>
+		<key>longitude</key>
+		<real>4.832543</real>
+		<key>latitude</key>
+		<real>45.77608</real>
+		<key>name</key>
+		<string>PLACE DE LA CROIX-ROUSSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue du Cdt Lherminier/Angle rue F. de Pressensé</string>
+		<key>number</key>
+		<integer>10047</integer>
+		<key>longitude</key>
+		<real>4.88504</real>
+		<key>latitude</key>
+		<real>45.771143</real>
+		<key>name</key>
+		<string>LHERMINIER/PRESSENSÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Moncey / Part-Dieu</string>
+		<key>number</key>
+		<integer>3004</integer>
+		<key>longitude</key>
+		<real>4.848139</real>
+		<key>latitude</key>
+		<real>45.759648</real>
+		<key>name</key>
+		<string>BOURSE DU TRAVAIL (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de la Part-Dieu</string>
+		<key>number</key>
+		<integer>3016</integer>
+		<key>longitude</key>
+		<real>4.842308</real>
+		<key>latitude</key>
+		<real>45.759361</real>
+		<key>name</key>
+		<string>LIBERTÉ / PART-DIEU (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Henry IV</string>
+		<key>number</key>
+		<integer>2003</integer>
+		<key>longitude</key>
+		<real>4.828297</real>
+		<key>latitude</key>
+		<real>45.753049</real>
+		<key>name</key>
+		<string>PLACE AMPÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Villon</string>
+		<key>number</key>
+		<integer>8038</integer>
+		<key>longitude</key>
+		<real>4.867501</real>
+		<key>latitude</key>
+		<real>45.746691</real>
+		<key>name</key>
+		<string>ALBERT THOMAS / VILLON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Jacques Brel/angle rue Korel</string>
+		<key>number</key>
+		<integer>10072</integer>
+		<key>longitude</key>
+		<real>4.864269</real>
+		<key>latitude</key>
+		<real>45.774228</real>
+		<key>name</key>
+		<string>JACQUES BREL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3094</integer>
+		<key>longitude</key>
+		<real>4.861512</real>
+		<key>latitude</key>
+		<real>45.757808</real>
+		<key>name</key>
+		<string>VILLETTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Quai Chauveau / angle Pont Koenig</string>
+		<key>number</key>
+		<integer>9011</integer>
+		<key>longitude</key>
+		<real>4.812681</real>
+		<key>latitude</key>
+		<real>45.769803</real>
+		<key>name</key>
+		<string>CONSERVATOIRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Boulevard Jean XXIII - Angle de la rue Mermoz</string>
+		<key>number</key>
+		<integer>8009</integer>
+		<key>longitude</key>
+		<real>4.869789</real>
+		<key>latitude</key>
+		<real>45.73648</real>
+		<key>name</key>
+		<string>JEAN XXIII / MERMOZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Côté rue des Marroniers</string>
+		<key>number</key>
+		<integer>2008</integer>
+		<key>longitude</key>
+		<real>4.833917</real>
+		<key>latitude</key>
+		<real>45.756775</real>
+		<key>name</key>
+		<string>PLACE ANTONIN PONCET (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Vanderpol/Angle St Pierre de Vaise</string>
+		<key>number</key>
+		<integer>9029</integer>
+		<key>longitude</key>
+		<real>4.807831</real>
+		<key>latitude</key>
+		<real>45.773125</real>
+		<key>name</key>
+		<string>SAINT PIERRE DE VAISE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3099</integer>
+		<key>longitude</key>
+		<real>4.86532</real>
+		<key>latitude</key>
+		<real>45.757042</real>
+		<key>name</key>
+		<string>PLACE SAINTE ANNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8010</integer>
+		<key>longitude</key>
+		<real>4.85941</real>
+		<key>latitude</key>
+		<real>45.740052</real>
+		<key>name</key>
+		<string>PLACE MENDÈS FRANCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3067</integer>
+		<key>longitude</key>
+		<real>4.863923</real>
+		<key>latitude</key>
+		<real>45.752907</real>
+		<key>name</key>
+		<string>HACHETTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue des Aqueducs</string>
+		<key>number</key>
+		<integer>5002</integer>
+		<key>longitude</key>
+		<real>4.796616</real>
+		<key>latitude</key>
+		<real>45.756535</real>
+		<key>name</key>
+		<string>PLACE DES COMPAGNONS DE LA CHANSON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Au niveau de la rue Duvivier</string>
+		<key>number</key>
+		<integer>3039</integer>
+		<key>longitude</key>
+		<real>4.855756</real>
+		<key>latitude</key>
+		<real>45.752553</real>
+		<key>name</key>
+		<string>PLACE BIR-HAKEIM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle cours Gambetta</string>
+		<key>number</key>
+		<integer>3053</integer>
+		<key>longitude</key>
+		<real>4.855604</real>
+		<key>latitude</key>
+		<real>45.751123</real>
+		<key>name</key>
+		<string>GAMBETTA / JUSSERAND (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Entre Herriot et République</string>
+		<key>number</key>
+		<integer>2024</integer>
+		<key>longitude</key>
+		<real>4.834136</real>
+		<key>latitude</key>
+		<real>45.758733</real>
+		<key>name</key>
+		<string>RÉPUBLIQUE / MAUPIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2014</integer>
+		<key>longitude</key>
+		<real>4.834305</real>
+		<key>latitude</key>
+		<real>45.760762</real>
+		<key>name</key>
+		<string>JACOBINS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10083</integer>
+		<key>longitude</key>
+		<real>4.884238</real>
+		<key>latitude</key>
+		<real>45.777873</real>
+		<key>name</key>
+		<string>CHATEAU GAILLARD / BIENVENUS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de la République</string>
+		<key>number</key>
+		<integer>2017</integer>
+		<key>longitude</key>
+		<real>4.836023</real>
+		<key>latitude</key>
+		<real>45.762184</real>
+		<key>name</key>
+		<string>RÉPUBLIQUE / FERRANDIÈRE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Docteur Long/av. Lacassagne</string>
+		<key>number</key>
+		<integer>3051</integer>
+		<key>longitude</key>
+		<real>4.880641</real>
+		<key>latitude</key>
+		<real>45.748193</real>
+		<key>name</key>
+		<string>PLACE HENRI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Tissot / angle rue de Bourgogne</string>
+		<key>number</key>
+		<integer>9006</integer>
+		<key>longitude</key>
+		<real>4.803297</real>
+		<key>latitude</key>
+		<real>45.777287</real>
+		<key>name</key>
+		<string>THÉÂTRE NOUVELLE GÉNÉRATION</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Antoine Primat/Angle rue Decorps</string>
+		<key>number</key>
+		<integer>10032</integer>
+		<key>longitude</key>
+		<real>4.89998</real>
+		<key>latitude</key>
+		<real>45.757173</real>
+		<key>name</key>
+		<string>PRIMAT / DECORPS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle République / rue de la Barre</string>
+		<key>number</key>
+		<integer>2001</integer>
+		<key>longitude</key>
+		<real>4.834594</real>
+		<key>latitude</key>
+		<real>45.758</real>
+		<key>name</key>
+		<string>BELLECOUR / RÉPUBLIQUE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle cours Charlemagne</string>
+		<key>number</key>
+		<integer>2006</integer>
+		<key>longitude</key>
+		<real>4.82359</real>
+		<key>latitude</key>
+		<real>45.745528</real>
+		<key>name</key>
+		<string>PLACE DE L&apos;HIPPODROME</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Intersection Ferrandière/Jasseron</string>
+		<key>number</key>
+		<integer>3021</integer>
+		<key>longitude</key>
+		<real>4.869894</real>
+		<key>latitude</key>
+		<real>45.759509</real>
+		<key>name</key>
+		<string>PLACE DE LA FERRANDIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de la Platière - Angle quai de la Pêcherie</string>
+		<key>number</key>
+		<integer>1016</integer>
+		<key>longitude</key>
+		<real>4.831089</real>
+		<key>latitude</key>
+		<real>45.765944</real>
+		<key>name</key>
+		<string>PÊCHERIE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10103</integer>
+		<key>longitude</key>
+		<real>4.877482</real>
+		<key>latitude</key>
+		<real>45.784526</real>
+		<key>name</key>
+		<string>DOUA / RUE DES SPORTS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10080</integer>
+		<key>longitude</key>
+		<real>4.880261</real>
+		<key>latitude</key>
+		<real>45.775409</real>
+		<key>name</key>
+		<string>VAILLANT / PERRONCEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Cours E. Zola / Angle passage Rey</string>
+		<key>number</key>
+		<integer>10074</integer>
+		<key>longitude</key>
+		<real>4.876728</real>
+		<key>latitude</key>
+		<real>45.770099</real>
+		<key>name</key>
+		<string>ZOLA / PASSAGE REY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5055</integer>
+		<key>longitude</key>
+		<real>4.802751</real>
+		<key>latitude</key>
+		<real>45.762013</real>
+		<key>name</key>
+		<string>BUYER / APOLLINAIRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10115</integer>
+		<key>longitude</key>
+		<real>4.90528</real>
+		<key>latitude</key>
+		<real>45.754181</real>
+		<key>name</key>
+		<string>PLACE D&apos;ESPAGNE / STADE KRUGER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Intersection Rockefeller / Esquirol</string>
+		<key>number</key>
+		<integer>3024</integer>
+		<key>longitude</key>
+		<real>4.885538</real>
+		<key>latitude</key>
+		<real>45.741336</real>
+		<key>name</key>
+		<string>ROCKEFELLER / ESQUIROL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Garibaldi - Angle avenue Berthelot</string>
+		<key>number</key>
+		<integer>7011</integer>
+		<key>longitude</key>
+		<real>4.847406</real>
+		<key>latitude</key>
+		<real>45.743756</real>
+		<key>name</key>
+		<string>BERTHELOT / GARIBALDI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9043</integer>
+		<key>longitude</key>
+		<real>4.799725</real>
+		<key>latitude</key>
+		<real>45.776087</real>
+		<key>name</key>
+		<string>MARIETTON OUEST</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3091</integer>
+		<key>longitude</key>
+		<real>4.896975</real>
+		<key>latitude</key>
+		<real>45.748286</real>
+		<key>name</key>
+		<string>HOPITAL NEUROLOGIQUE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10035</integer>
+		<key>longitude</key>
+		<real>4.900492</real>
+		<key>latitude</key>
+		<real>45.763139</real>
+		<key>name</key>
+		<string>BOIRON GRANGÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>4041</integer>
+		<key>longitude</key>
+		<real>4.83512</real>
+		<key>latitude</key>
+		<real>45.775435</real>
+		<key>name</key>
+		<string>BOUSSANGES / AUSTERLITZ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3088</integer>
+		<key>longitude</key>
+		<real>4.846453</real>
+		<key>latitude</key>
+		<real>45.75882</real>
+		<key>name</key>
+		<string>PLACE GUICHARD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Anatole France</string>
+		<key>number</key>
+		<integer>10059</integer>
+		<key>longitude</key>
+		<real>4.884276</real>
+		<key>latitude</key>
+		<real>45.76884</real>
+		<key>name</key>
+		<string>ANATOLE FRANCE / ZOLA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face au 54 Boulevard Ambroise Paré</string>
+		<key>number</key>
+		<integer>8040</integer>
+		<key>longitude</key>
+		<real>4.883667</real>
+		<key>latitude</key>
+		<real>45.736289</real>
+		<key>name</key>
+		<string>AMBROISE PARÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle avenue Thiers</string>
+		<key>number</key>
+		<integer>6016</integer>
+		<key>longitude</key>
+		<real>4.86218</real>
+		<key>latitude</key>
+		<real>45.766002</real>
+		<key>name</key>
+		<string>VIABERT / THIERS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Entre la cathédrale et le funiculaire</string>
+		<key>number</key>
+		<integer>5004</integer>
+		<key>longitude</key>
+		<real>4.826548</real>
+		<key>latitude</key>
+		<real>45.760468</real>
+		<key>name</key>
+		<string>ST JEAN (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10030</integer>
+		<key>longitude</key>
+		<real>4.893851</real>
+		<key>latitude</key>
+		<real>45.773845</real>
+		<key>name</key>
+		<string>GREUZE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10118</integer>
+		<key>longitude</key>
+		<real>4.900597</real>
+		<key>latitude</key>
+		<real>45.767194</real>
+		<key>name</key>
+		<string>VOYANT / CHAMBORD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10001</integer>
+		<key>longitude</key>
+		<real>4.882366</real>
+		<key>latitude</key>
+		<real>45.785632</real>
+		<key>name</key>
+		<string>IUT / FEYSSINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10071</integer>
+		<key>longitude</key>
+		<real>4.896386</real>
+		<key>latitude</key>
+		<real>45.761597</real>
+		<key>name</key>
+		<string>LYCÉE MARIE CURIE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9050</integer>
+		<key>longitude</key>
+		<real>4.794485</real>
+		<key>latitude</key>
+		<real>45.783698</real>
+		<key>name</key>
+		<string>ALLEE DE L&apos;EUROPE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face au 115 rue Pierre Baratin</string>
+		<key>number</key>
+		<integer>10087</integer>
+		<key>longitude</key>
+		<real>4.900702</real>
+		<key>latitude</key>
+		<real>45.760603</real>
+		<key>name</key>
+		<string>BARATIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Birmingham, sortie tunnel mode doux côté Saöne - 69000 Lyon</string>
+		<key>number</key>
+		<integer>4026</integer>
+		<key>longitude</key>
+		<real>4.813656</real>
+		<key>latitude</key>
+		<real>45.774574</real>
+		<key>name</key>
+		<string>BIRMINGHAM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10041</integer>
+		<key>longitude</key>
+		<real>4.898891</real>
+		<key>latitude</key>
+		<real>45.752923</real>
+		<key>name</key>
+		<string>KIMMERLING</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Parvis du musée des confluences</string>
+		<key>number</key>
+		<integer>2020</integer>
+		<key>longitude</key>
+		<real>4.818954</real>
+		<key>latitude</key>
+		<real>45.733388</real>
+		<key>name</key>
+		<string>MUSEE DES CONFLUENCES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>4001</integer>
+		<key>longitude</key>
+		<real>4.814254</real>
+		<key>latitude</key>
+		<real>45.770392</real>
+		<key>name</key>
+		<string>CONSERVATOIRE BIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place de Trion</string>
+		<key>number</key>
+		<integer>5007</integer>
+		<key>longitude</key>
+		<real>4.81317</real>
+		<key>latitude</key>
+		<real>45.757916</real>
+		<key>name</key>
+		<string>PLACE DE TRION</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Garibaldi</string>
+		<key>number</key>
+		<integer>3015</integer>
+		<key>longitude</key>
+		<real>4.85276</real>
+		<key>latitude</key>
+		<real>45.760779</real>
+		<key>name</key>
+		<string>SERVIENT / GARIBALDI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9042</integer>
+		<key>longitude</key>
+		<real>4.811446</real>
+		<key>latitude</key>
+		<real>45.786533</real>
+		<key>name</key>
+		<string>VAISE DOCKS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>93–131 Avenue Tony Garnier 69007 Lyon</string>
+		<key>number</key>
+		<integer>7013</integer>
+		<key>longitude</key>
+		<real>4.823733</real>
+		<key>latitude</key>
+		<real>45.730786</real>
+		<key>name</key>
+		<string>HALLE TONY GARNIER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Quai Gillet au  niveau de la place de la Rochette. Caluire et Cuire.</string>
+		<key>number</key>
+		<integer>11003</integer>
+		<key>longitude</key>
+		<real>4.823595</real>
+		<key>latitude</key>
+		<real>45.791748</real>
+		<key>name</key>
+		<string>LA ROCHETTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1035</integer>
+		<key>longitude</key>
+		<real>4.837917</real>
+		<key>latitude</key>
+		<real>45.772191</real>
+		<key>name</key>
+		<string>QUAI LASSAGNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Allée A. Lignon</string>
+		<key>number</key>
+		<integer>6037</integer>
+		<key>longitude</key>
+		<real>4.849378</real>
+		<key>latitude</key>
+		<real>45.782287</real>
+		<key>name</key>
+		<string>CITÉ INTERNATIONALE / INTERPOL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8057</integer>
+		<key>longitude</key>
+		<real>4.853406</real>
+		<key>latitude</key>
+		<real>45.732483</real>
+		<key>name</key>
+		<string>VIENNE / MONTAGNY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Felissent, angle rue de Marseille</string>
+		<key>number</key>
+		<integer>7014</integer>
+		<key>longitude</key>
+		<real>4.841417</real>
+		<key>latitude</key>
+		<real>45.752989</real>
+		<key>name</key>
+		<string>MARSEILLE / FÉLISSENT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Villon</string>
+		<key>number</key>
+		<integer>8007</integer>
+		<key>longitude</key>
+		<real>4.866424</real>
+		<key>latitude</key>
+		<real>45.745018</real>
+		<key>name</key>
+		<string>FRÈRES LUMIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Général André - Face au 126 avenue Paul Santy</string>
+		<key>number</key>
+		<integer>8021</integer>
+		<key>longitude</key>
+		<real>4.877279</real>
+		<key>latitude</key>
+		<real>45.728542</real>
+		<key>name</key>
+		<string>PAUL SANTY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face station tram Ste Blandine</string>
+		<key>number</key>
+		<integer>2028</integer>
+		<key>longitude</key>
+		<real>4.822152</real>
+		<key>latitude</key>
+		<real>45.744438</real>
+		<key>name</key>
+		<string>2028- SAINTE-BLANDINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8059</integer>
+		<key>longitude</key>
+		<real>4.88954</real>
+		<key>latitude</key>
+		<real>45.735375</real>
+		<key>name</key>
+		<string>LAENNEC / PINEL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1003</integer>
+		<key>longitude</key>
+		<real>4.830127</real>
+		<key>latitude</key>
+		<real>45.769289</real>
+		<key>name</key>
+		<string>PLACE SATHONAY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Sur l&apos;esplanade entre la rue Hrant Dink et le 40 quai Rambaud</string>
+		<key>number</key>
+		<integer>2009</integer>
+		<key>longitude</key>
+		<real>4.814984</real>
+		<key>latitude</key>
+		<real>45.739652</real>
+		<key>name</key>
+		<string>CONFLUENCE DOCKS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face à la faculté catholique</string>
+		<key>number</key>
+		<integer>2011</integer>
+		<key>longitude</key>
+		<real>4.828342</real>
+		<key>latitude</key>
+		<real>45.756813</real>
+		<key>name</key>
+		<string>SALA / RUE DU PLAT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue d&apos;Algérie</string>
+		<key>number</key>
+		<integer>1001</integer>
+		<key>longitude</key>
+		<real>4.832114</real>
+		<key>latitude</key>
+		<real>45.767736</real>
+		<key>name</key>
+		<string>TERREAUX / TERME</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7056</integer>
+		<key>longitude</key>
+		<real>4.840745</real>
+		<key>latitude</key>
+		<real>45.755783</real>
+		<key>name</key>
+		<string>PLACE RASPAIL (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8015</integer>
+		<key>longitude</key>
+		<real>4.874192</real>
+		<key>latitude</key>
+		<real>45.740324</real>
+		<key>name</key>
+		<string>BOULEVARD JEAN XXIII</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3089</integer>
+		<key>longitude</key>
+		<real>4.888964</real>
+		<key>latitude</key>
+		<real>45.745304</real>
+		<key>name</key>
+		<string>TRARIEUX / LACASSAGNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10048</integer>
+		<key>longitude</key>
+		<real>4.875958</real>
+		<key>latitude</key>
+		<real>45.759176</real>
+		<key>name</key>
+		<string>PLACE MARENGO</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10063</integer>
+		<key>longitude</key>
+		<real>4.885601</real>
+		<key>latitude</key>
+		<real>45.758399</real>
+		<key>name</key>
+		<string>PERRIN / JEAN JAURÈS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3085</integer>
+		<key>longitude</key>
+		<real>4.868337</real>
+		<key>latitude</key>
+		<real>45.757864</real>
+		<key>name</key>
+		<string>SACRE COEUR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2041</integer>
+		<key>longitude</key>
+		<real>4.833041</real>
+		<key>latitude</key>
+		<real>45.754468</real>
+		<key>name</key>
+		<string>SALA / CHARITE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Rue de Préssensé / Flachet</string>
+		<key>number</key>
+		<integer>10086</integer>
+		<key>longitude</key>
+		<real>4.889629</real>
+		<key>latitude</key>
+		<real>45.769837</real>
+		<key>name</key>
+		<string>ANATOLE FRANCE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10117</integer>
+		<key>longitude</key>
+		<real>4.892349</real>
+		<key>latitude</key>
+		<real>45.764567</real>
+		<key>name</key>
+		<string>LA PERALLIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9041</integer>
+		<key>longitude</key>
+		<real>4.820567</real>
+		<key>latitude</key>
+		<real>45.792478</real>
+		<key>name</key>
+		<string>CARRET / SÉDALLIAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1024</integer>
+		<key>longitude</key>
+		<real>4.824607</real>
+		<key>latitude</key>
+		<real>45.769684</real>
+		<key>name</key>
+		<string>ROUVILLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Près de la gare de St Paul</string>
+		<key>number</key>
+		<integer>5005</integer>
+		<key>longitude</key>
+		<real>4.827425</real>
+		<key>latitude</key>
+		<real>45.766278</real>
+		<key>name</key>
+		<string>SAINT PAUL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6043</integer>
+		<key>longitude</key>
+		<real>4.851896</real>
+		<key>latitude</key>
+		<real>45.784698</real>
+		<key>name</key>
+		<string>CITÉ INTERNATIONALE - CINÉMA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9040</integer>
+		<key>longitude</key>
+		<real>4.807578</real>
+		<key>latitude</key>
+		<real>45.770991</real>
+		<key>name</key>
+		<string>PLACE RHODIACETA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6008</integer>
+		<key>longitude</key>
+		<real>4.858972</real>
+		<key>latitude</key>
+		<real>45.7684</real>
+		<key>name</key>
+		<string>PLACE JULES FERRY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8060</integer>
+		<key>longitude</key>
+		<real>4.874231</real>
+		<key>latitude</key>
+		<real>45.731716</real>
+		<key>name</key>
+		<string>SANTY / BEAUVISAGE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Tolozan - Angle nord-est de la place</string>
+		<key>number</key>
+		<integer>1022</integer>
+		<key>longitude</key>
+		<real>4.837495</real>
+		<key>latitude</key>
+		<real>45.769508</real>
+		<key>name</key>
+		<string>PLACE TOLOZAN (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Servient</string>
+		<key>number</key>
+		<integer>3031</integer>
+		<key>longitude</key>
+		<real>4.844511</real>
+		<key>latitude</key>
+		<real>45.759906</real>
+		<key>name</key>
+		<string>CORNEILLE / SERVIENT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Lacassagne</string>
+		<key>number</key>
+		<integer>3043</integer>
+		<key>longitude</key>
+		<real>4.867336</real>
+		<key>latitude</key>
+		<real>45.753975</real>
+		<key>name</key>
+		<string>PLACE ROUGET DE L&apos;ISLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>6001</integer>
+		<key>longitude</key>
+		<real>4.858922</real>
+		<key>latitude</key>
+		<real>45.766893</real>
+		<key>name</key>
+		<string>GARE DES BROTTEAUX</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10114</integer>
+		<key>longitude</key>
+		<real>4.910776</real>
+		<key>latitude</key>
+		<real>45.757931</real>
+		<key>name</key>
+		<string>BEL AIR / LES BROSSES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Bvd 11 Nov./prox. arret tram Condorcet</string>
+		<key>number</key>
+		<integer>10038</integer>
+		<key>longitude</key>
+		<real>4.866874</real>
+		<key>latitude</key>
+		<real>45.779062</real>
+		<key>name</key>
+		<string>CONDORCET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue du Chariot d&apos;Or</string>
+		<key>number</key>
+		<integer>4005</integer>
+		<key>longitude</key>
+		<real>4.83453</real>
+		<key>latitude</key>
+		<real>45.77762</real>
+		<key>name</key>
+		<string>PLACE BERTONE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>42 Rue de Gerland 69007 Lyon</string>
+		<key>number</key>
+		<integer>7031</integer>
+		<key>longitude</key>
+		<real>4.840308</real>
+		<key>latitude</key>
+		<real>45.739827</real>
+		<key>name</key>
+		<string>JAURÈS / GERLAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10043</integer>
+		<key>longitude</key>
+		<real>4.890614</real>
+		<key>latitude</key>
+		<real>45.782994</real>
+		<key>name</key>
+		<string>SALENGRO / FEYSSINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Paul Cazeneuve - Angle du boulevard des Etats-Unis</string>
+		<key>number</key>
+		<integer>8037</integer>
+		<key>longitude</key>
+		<real>4.862906</real>
+		<key>latitude</key>
+		<real>45.734027</real>
+		<key>name</key>
+		<string>CAZENEUVE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>2 Rue Crépet 69007 Lyon</string>
+		<key>number</key>
+		<integer>7018</integer>
+		<key>longitude</key>
+		<real>4.832061</real>
+		<key>latitude</key>
+		<real>45.740279</real>
+		<key>name</key>
+		<string>LYCEE LOUISE LABE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Côté est de la place</string>
+		<key>number</key>
+		<integer>2015</integer>
+		<key>longitude</key>
+		<real>4.836279</real>
+		<key>latitude</key>
+		<real>45.760698</real>
+		<key>name</key>
+		<string>PLACE DE LA RÉPUBLIQUE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Bvd de la Croix-Rousse</string>
+		<key>number</key>
+		<integer>4017</integer>
+		<key>longitude</key>
+		<real>4.829628</real>
+		<key>latitude</key>
+		<real>45.776002</real>
+		<key>name</key>
+		<string>PLACE DES TAPIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue des Charmettes/Angle Cours Emile Zola</string>
+		<key>number</key>
+		<integer>10046</integer>
+		<key>longitude</key>
+		<real>4.867201</real>
+		<key>latitude</key>
+		<real>45.770705</real>
+		<key>name</key>
+		<string>CHARMETTES/ZOLA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de St Cloud</string>
+		<key>number</key>
+		<integer>7046</integer>
+		<key>longitude</key>
+		<real>4.82781</real>
+		<key>latitude</key>
+		<real>45.730083</real>
+		<key>name</key>
+		<string>PLACE DE L&apos;ECOLE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Quai Claude Bernard</string>
+		<key>number</key>
+		<integer>7002</integer>
+		<key>longitude</key>
+		<real>4.836395</real>
+		<key>latitude</key>
+		<real>45.751404</real>
+		<key>name</key>
+		<string>UNIVERSITÉS LYON III / LYON II (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3002</integer>
+		<key>longitude</key>
+		<real>4.85873</real>
+		<key>latitude</key>
+		<real>45.760139</real>
+		<key>name</key>
+		<string>PART-DIEU / GARE SNCF (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10102</integer>
+		<key>longitude</key>
+		<real>4.871219</real>
+		<key>latitude</key>
+		<real>45.781008</real>
+		<key>name</key>
+		<string>DOUA / G. BERGER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Niveau rue de Sèze</string>
+		<key>number</key>
+		<integer>6023</integer>
+		<key>longitude</key>
+		<real>4.841095</real>
+		<key>latitude</key>
+		<real>45.766821</real>
+		<key>name</key>
+		<string>QUAI SARRAIL</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Sur le quai devant l&apos;entrée de la piscine</string>
+		<key>number</key>
+		<integer>7034</integer>
+		<key>longitude</key>
+		<real>4.838283</real>
+		<key>latitude</key>
+		<real>45.753705</real>
+		<key>name</key>
+		<string>PISCINE DU RHÔNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Chenavard - Côté place des Terreaux</string>
+		<key>number</key>
+		<integer>1020</integer>
+		<key>longitude</key>
+		<real>4.832942</real>
+		<key>latitude</key>
+		<real>45.766763</real>
+		<key>name</key>
+		<string>TERREAUX / CHENAVARD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Rue Rollet/Blanqui</string>
+		<key>number</key>
+		<integer>10064</integer>
+		<key>longitude</key>
+		<real>4.884311</real>
+		<key>latitude</key>
+		<real>45.764812</real>
+		<key>name</key>
+		<string>4 AOÛT 1789</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8020</integer>
+		<key>longitude</key>
+		<real>4.854022</real>
+		<key>latitude</key>
+		<real>45.729743</real>
+		<key>name</key>
+		<string>MOULIN A VENT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10101</integer>
+		<key>longitude</key>
+		<real>4.873992</real>
+		<key>latitude</key>
+		<real>45.779429</real>
+		<key>name</key>
+		<string>EINSTEIN / BOULEVARD DU 11 NOVEMBRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>16 Impasse du Pré Gaudry 69007 Lyon</string>
+		<key>number</key>
+		<integer>7022</integer>
+		<key>longitude</key>
+		<real>4.841463</real>
+		<key>latitude</key>
+		<real>45.743975</real>
+		<key>name</key>
+		<string>JAURÈS / LAGRANGE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Allée Pierre de Coubertin</string>
+		<key>number</key>
+		<integer>7020</integer>
+		<key>longitude</key>
+		<real>4.826821</real>
+		<key>latitude</key>
+		<real>45.724352</real>
+		<key>name</key>
+		<string>PARC DE GERLAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10031</integer>
+		<key>longitude</key>
+		<real>4.88356</real>
+		<key>latitude</key>
+		<real>45.780679</real>
+		<key>name</key>
+		<string>CROIX LUIZET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Jean Ambre</string>
+		<key>number</key>
+		<integer>4011</integer>
+		<key>longitude</key>
+		<real>4.832866</real>
+		<key>latitude</key>
+		<real>45.781574</real>
+		<key>name</key>
+		<string>PLACE JEAN AMBRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Serlin - Angle place de la comédie</string>
+		<key>number</key>
+		<integer>1002</integer>
+		<key>longitude</key>
+		<real>4.836306</real>
+		<key>latitude</key>
+		<real>45.767524</real>
+		<key>name</key>
+		<string>OPÉRA (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2042</integer>
+		<key>longitude</key>
+		<real>4.824763</real>
+		<key>latitude</key>
+		<real>45.751873</real>
+		<key>name</key>
+		<string>JOFFRE / VAUBECOUR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Quai Arloing, Côté Saône</string>
+		<key>number</key>
+		<integer>9032</integer>
+		<key>longitude</key>
+		<real>4.809566</real>
+		<key>latitude</key>
+		<real>45.773815</real>
+		<key>name</key>
+		<string>PLACE DU PORT MOUTON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>11002</integer>
+		<key>longitude</key>
+		<real>4.847838</real>
+		<key>latitude</key>
+		<real>45.785465</real>
+		<key>name</key>
+		<string>SAINT CLAIR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face rue Massena, entrée centre commercial</string>
+		<key>number</key>
+		<integer>3003</integer>
+		<key>longitude</key>
+		<real>4.855071</real>
+		<key>latitude</key>
+		<real>45.762974</real>
+		<key>name</key>
+		<string>PART-DIEU / DERUELLE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Prox. métro Valmy</string>
+		<key>number</key>
+		<integer>9002</integer>
+		<key>longitude</key>
+		<real>4.805676</real>
+		<key>latitude</key>
+		<real>45.774241</real>
+		<key>name</key>
+		<string>MAIRIE DU 9°</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Professeur Bouvier/Angle rue du 8 mai 1945</string>
+		<key>number</key>
+		<integer>10039</integer>
+		<key>longitude</key>
+		<real>4.891692</real>
+		<key>latitude</key>
+		<real>45.779487</real>
+		<key>name</key>
+		<string>BOUVIER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Boulevard des Belges - Angle rue Duquesne</string>
+		<key>number</key>
+		<integer>6006</integer>
+		<key>longitude</key>
+		<real>4.852001</real>
+		<key>latitude</key>
+		<real>45.773304</real>
+		<key>name</key>
+		<string>BOULEVARD DES BELGES</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Sainte Irénée</string>
+		<key>number</key>
+		<integer>5008</integer>
+		<key>longitude</key>
+		<real>4.812427</real>
+		<key>latitude</key>
+		<real>45.754978</real>
+		<key>name</key>
+		<string>SAINTE IRÉNÉE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Herriot - Devant Musée des Beaux Arts</string>
+		<key>number</key>
+		<integer>1021</integer>
+		<key>longitude</key>
+		<real>4.834267</real>
+		<key>latitude</key>
+		<real>45.766832</real>
+		<key>name</key>
+		<string>TERREAUX / BEAUX ARTS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Casimir Périer</string>
+		<key>number</key>
+		<integer>2007</integer>
+		<key>longitude</key>
+		<real>4.820464</real>
+		<key>latitude</key>
+		<real>45.742617</real>
+		<key>name</key>
+		<string>PATINOIRE CHARLEMAGNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Entre rue de Bonnel et rue Rabelais</string>
+		<key>number</key>
+		<integer>3044</integer>
+		<key>longitude</key>
+		<real>4.841053</real>
+		<key>latitude</key>
+		<real>45.762023</real>
+		<key>name</key>
+		<string>QUAI AUGAGNEUR (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Derrière la station de tram</string>
+		<key>number</key>
+		<integer>3001</integer>
+		<key>longitude</key>
+		<real>4.858454</real>
+		<key>latitude</key>
+		<real>45.76027</real>
+		<key>name</key>
+		<string>PART-DIEU / VIVIER MERLE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10025</integer>
+		<key>longitude</key>
+		<real>4.873158</real>
+		<key>latitude</key>
+		<real>45.763652</real>
+		<key>name</key>
+		<string>TOTEM</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle avenue Berthelot</string>
+		<key>number</key>
+		<integer>8034</integer>
+		<key>longitude</key>
+		<real>4.862727</real>
+		<key>latitude</key>
+		<real>45.738301</real>
+		<key>name</key>
+		<string>BERTHELOT / VILLON</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3084</integer>
+		<key>longitude</key>
+		<real>4.855193</real>
+		<key>latitude</key>
+		<real>45.757268</real>
+		<key>name</key>
+		<string>DESAIX</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant le bâtiment de la CAFAL</string>
+		<key>number</key>
+		<integer>3038</integer>
+		<key>longitude</key>
+		<real>4.858911</real>
+		<key>latitude</key>
+		<real>45.757415</real>
+		<key>name</key>
+		<string>VIVIER MERLE / PAUL BERT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>angle quai de Bondy</string>
+		<key>number</key>
+		<integer>5009</integer>
+		<key>longitude</key>
+		<real>4.828969</real>
+		<key>latitude</key>
+		<real>45.764695</real>
+		<key>name</key>
+		<string>PLACE FOUSSERET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Nungesser et Coli</string>
+		<key>number</key>
+		<integer>8030</integer>
+		<key>longitude</key>
+		<real>4.879733</real>
+		<key>latitude</key>
+		<real>45.741425</real>
+		<key>name</key>
+		<string>LAËNNEC</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5036</integer>
+		<key>longitude</key>
+		<real>4.795546</real>
+		<key>latitude</key>
+		<real>45.749627</real>
+		<key>name</key>
+		<string>LA SALETTE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Aristide Briand, en face de la mairie</string>
+		<key>number</key>
+		<integer>10027</integer>
+		<key>longitude</key>
+		<real>4.880059</real>
+		<key>latitude</key>
+		<real>45.766861</real>
+		<key>name</key>
+		<string>MAIRIE DE VILLEURBANNE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Boulevard Stalingrad/angle rue Charlie Chaplin</string>
+		<key>number</key>
+		<integer>10036</integer>
+		<key>longitude</key>
+		<real>4.859157</real>
+		<key>latitude</key>
+		<real>45.77435</real>
+		<key>name</key>
+		<string>STALINGRAD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Poulaillerie / République</string>
+		<key>number</key>
+		<integer>2030</integer>
+		<key>longitude</key>
+		<real>4.835554</real>
+		<key>latitude</key>
+		<real>45.764079</real>
+		<key>name</key>
+		<string>RÉPUBLIQUE / POULAILLERIE (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>217b–221 Avenue Jean Jaurès 69007 Lyon</string>
+		<key>number</key>
+		<integer>7057</integer>
+		<key>longitude</key>
+		<real>4.835486</real>
+		<key>latitude</key>
+		<real>45.734712</real>
+		<key>name</key>
+		<string>JAURES / BOLLIER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de l&apos;Epargne</string>
+		<key>number</key>
+		<integer>7052</integer>
+		<key>longitude</key>
+		<real>4.851214</real>
+		<key>latitude</key>
+		<real>45.745939</real>
+		<key>name</key>
+		<string>PARC BLANDAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place Gabriel Péri</string>
+		<key>number</key>
+		<integer>7001</integer>
+		<key>longitude</key>
+		<real>4.843627</real>
+		<key>latitude</key>
+		<real>45.754875</real>
+		<key>name</key>
+		<string>PLACE GABRIEL PÉRI (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8052</integer>
+		<key>longitude</key>
+		<real>4.859612</real>
+		<key>latitude</key>
+		<real>45.747032</real>
+		<key>name</key>
+		<string>CLINIQUE MONPLAISIR</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10013</integer>
+		<key>longitude</key>
+		<real>4.901018</real>
+		<key>latitude</key>
+		<real>45.764961</real>
+		<key>name</key>
+		<string>CUSSET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>1032</integer>
+		<key>longitude</key>
+		<real>4.836334</real>
+		<key>latitude</key>
+		<real>45.767165</real>
+		<key>name</key>
+		<string>PIZAY (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Côté rue Lintier</string>
+		<key>number</key>
+		<integer>2002</integer>
+		<key>longitude</key>
+		<real>4.830428</real>
+		<key>latitude</key>
+		<real>45.758149</real>
+		<key>name</key>
+		<string>BELLECOUR / ST EXUPÉRY</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3087</integer>
+		<key>longitude</key>
+		<real>4.852563</real>
+		<key>latitude</key>
+		<real>45.762768</real>
+		<key>name</key>
+		<string>PART-DIEU / GARIBALDI</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face entrée de la gare</string>
+		<key>number</key>
+		<integer>9004</integer>
+		<key>longitude</key>
+		<real>4.804666</real>
+		<key>latitude</key>
+		<real>45.779786</real>
+		<key>name</key>
+		<string>GARE DE VAISE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Paul Bert</string>
+		<key>number</key>
+		<integer>3018</integer>
+		<key>longitude</key>
+		<real>4.848442</real>
+		<key>latitude</key>
+		<real>45.756596</real>
+		<key>name</key>
+		<string>CRÉQUI / VOLTAIRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Bouchut</string>
+		<key>number</key>
+		<integer>3010</integer>
+		<key>longitude</key>
+		<real>4.855958</real>
+		<key>latitude</key>
+		<real>45.759376</real>
+		<key>name</key>
+		<string>PART-DIEU / CUIRASSIERS (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue du 11 Nov./angle av Gaston Berger</string>
+		<key>number</key>
+		<integer>10056</integer>
+		<key>longitude</key>
+		<real>4.871581</real>
+		<key>latitude</key>
+		<real>45.779066</real>
+		<key>name</key>
+		<string>11 NOVEMBRE / GASTON BERGER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Gambetta</string>
+		<key>number</key>
+		<integer>3029</integer>
+		<key>longitude</key>
+		<real>4.850271</real>
+		<key>latitude</key>
+		<real>45.752967</real>
+		<key>name</key>
+		<string>PLACE ARISTIDE BRIAND</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Cours Emile Zola/Angle cours de la République</string>
+		<key>number</key>
+		<integer>10061</integer>
+		<key>longitude</key>
+		<real>4.872844</real>
+		<key>latitude</key>
+		<real>45.77081</real>
+		<key>name</key>
+		<string>RÉPUBLIQUE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue de Belfort</string>
+		<key>number</key>
+		<integer>4003</integer>
+		<key>longitude</key>
+		<real>4.834708</real>
+		<key>latitude</key>
+		<real>45.779731</real>
+		<key>name</key>
+		<string>4003- PLACE COMMANDANT  ARNAUD</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7064</integer>
+		<key>longitude</key>
+		<real>4.847843</real>
+		<key>latitude</key>
+		<real>45.74541</real>
+		<key>name</key>
+		<string>CROUS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3082</integer>
+		<key>longitude</key>
+		<real>4.845111</real>
+		<key>latitude</key>
+		<real>45.757672</real>
+		<key>name</key>
+		<string>PLACE BAHADOURIAN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5050</integer>
+		<key>longitude</key>
+		<real>4.821075</real>
+		<key>latitude</key>
+		<real>45.758333</real>
+		<key>name</key>
+		<string>THEATRE ROMAIN</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>A côté du stand de fleurs</string>
+		<key>number</key>
+		<integer>3007</integer>
+		<key>longitude</key>
+		<real>4.87897</real>
+		<key>latitude</key>
+		<real>45.743396</real>
+		<key>name</key>
+		<string>PLACE D&apos;ARSONVAL (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle Cours Vitton</string>
+		<key>number</key>
+		<integer>6007</integer>
+		<key>longitude</key>
+		<real>4.852366</real>
+		<key>latitude</key>
+		<real>45.769654</real>
+		<key>name</key>
+		<string>MASSÉNA</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9051</integer>
+		<key>longitude</key>
+		<real>4.797107</real>
+		<key>latitude</key>
+		<real>45.786546</real>
+		<key>name</key>
+		<string>ANDREI SAKHAROV</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Place des Pavillons - Devant la bibliothèque</string>
+		<key>number</key>
+		<integer>7012</integer>
+		<key>longitude</key>
+		<real>4.829697</real>
+		<key>latitude</key>
+		<real>45.7295</real>
+		<key>name</key>
+		<string>PLACE DES PAVILLONS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>27–33 Rue Alexander Fleming 69007 Lyon</string>
+		<key>number</key>
+		<integer>7049</integer>
+		<key>longitude</key>
+		<real>4.823563</real>
+		<key>latitude</key>
+		<real>45.727951</real>
+		<key>name</key>
+		<string>CITÉ SCOLAIRE INTERNATIONALE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant le lycée</string>
+		<key>number</key>
+		<integer>6005</integer>
+		<key>longitude</key>
+		<real>4.844767</real>
+		<key>latitude</key>
+		<real>45.765811</real>
+		<key>name</key>
+		<string>PLACE EDGAR QUINET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue Pasteur - Angle avenue Berthelot</string>
+		<key>number</key>
+		<integer>7010</integer>
+		<key>longitude</key>
+		<real>4.836009</real>
+		<key>latitude</key>
+		<real>45.747358</real>
+		<key>name</key>
+		<string>CENTRE BERTHELOT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>11001</integer>
+		<key>longitude</key>
+		<real>4.833733</real>
+		<key>latitude</key>
+		<real>45.785796</real>
+		<key>name</key>
+		<string>GARE DE CUIRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3102</integer>
+		<key>longitude</key>
+		<real>4.894272</real>
+		<key>latitude</key>
+		<real>45.75254</real>
+		<key>name</key>
+		<string>DR LONG / AUBEPINS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10088</integer>
+		<key>longitude</key>
+		<real>4.89788</real>
+		<key>latitude</key>
+		<real>45.766219</real>
+		<key>name</key>
+		<string>4 AOÛT 1789 / PRESSENSÉ</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5054</integer>
+		<key>longitude</key>
+		<real>4.792643</real>
+		<key>latitude</key>
+		<real>45.763906</real>
+		<key>name</key>
+		<string>CHAMPVERT</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10116</integer>
+		<key>longitude</key>
+		<real>4.906235</real>
+		<key>latitude</key>
+		<real>45.760617</real>
+		<key>name</key>
+		<string>BLUM / FAYS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Albert Einstein au niveau du virage</string>
+		<key>number</key>
+		<integer>10002</integer>
+		<key>longitude</key>
+		<real>4.876951</real>
+		<key>latitude</key>
+		<real>45.782222</real>
+		<key>name</key>
+		<string>INSA (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de la Madeleine - Angle rue St Lazarre</string>
+		<key>number</key>
+		<integer>7016</integer>
+		<key>longitude</key>
+		<real>4.847714</real>
+		<key>latitude</key>
+		<real>45.748925</real>
+		<key>name</key>
+		<string>PLACE SAINT LOUIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>10054</integer>
+		<key>longitude</key>
+		<real>4.859573</real>
+		<key>latitude</key>
+		<real>45.776715</real>
+		<key>name</key>
+		<string>STALINGRAD / MELIÈS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant la mairie du 8e</string>
+		<key>number</key>
+		<integer>8004</integer>
+		<key>longitude</key>
+		<real>4.872803</real>
+		<key>latitude</key>
+		<real>45.735158</real>
+		<key>name</key>
+		<string>MAIRIE DU 8ÈME</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle quai Romain Rolland</string>
+		<key>number</key>
+		<integer>5026</integer>
+		<key>longitude</key>
+		<real>4.829024</real>
+		<key>latitude</key>
+		<real>45.763383</real>
+		<key>name</key>
+		<string>RUE DE LA BALEINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3079</integer>
+		<key>longitude</key>
+		<real>4.884795</real>
+		<key>latitude</key>
+		<real>45.75118</real>
+		<key>name</key>
+		<string>PLACE LOUISE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Entre rue de Brest et rue Mercière</string>
+		<key>number</key>
+		<integer>2025</integer>
+		<key>longitude</key>
+		<real>4.833194</real>
+		<key>latitude</key>
+		<real>45.762054</real>
+		<key>name</key>
+		<string>MERCIÈRE / FERRANDIÈRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5031</integer>
+		<key>longitude</key>
+		<real>4.78821</real>
+		<key>latitude</key>
+		<real>45.754654</real>
+		<key>name</key>
+		<string>5031- MENIVAL/J.CURIE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>2039</integer>
+		<key>longitude</key>
+		<real>4.82984</real>
+		<key>latitude</key>
+		<real>45.749257</real>
+		<key>name</key>
+		<string>CHARITÉ / RÉCAMMIER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>5041</integer>
+		<key>longitude</key>
+		<real>4.819936</real>
+		<key>latitude</key>
+		<real>45.766537</real>
+		<key>name</key>
+		<string>L&apos;HOMME DE LA ROCHE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant entrée de la fac</string>
+		<key>number</key>
+		<integer>8003</integer>
+		<key>longitude</key>
+		<real>4.886885</real>
+		<key>latitude</key>
+		<real>45.738135</real>
+		<key>name</key>
+		<string>CLAUDE BERNARD LYON I</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>3100</integer>
+		<key>longitude</key>
+		<real>4.868748</real>
+		<key>latitude</key>
+		<real>45.752779</real>
+		<key>name</key>
+		<string>SISLEY / DAUPHINE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Rue de la Bourse - Long du Collège-Lycée Ampère</string>
+		<key>number</key>
+		<integer>1012</integer>
+		<key>longitude</key>
+		<real>4.836906</real>
+		<key>latitude</key>
+		<real>45.765789</real>
+		<key>name</key>
+		<string>AMPÈRE / BOURSE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8051</integer>
+		<key>longitude</key>
+		<real>4.854165</real>
+		<key>latitude</key>
+		<real>45.724172</real>
+		<key>name</key>
+		<string>HÔPITAL ST JEAN DE DIEU</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Allée A. Lignon</string>
+		<key>number</key>
+		<integer>6036</integer>
+		<key>longitude</key>
+		<real>4.852156</real>
+		<key>latitude</key>
+		<real>45.783885</real>
+		<key>name</key>
+		<string>MUSÉE D&apos;ART CONTEMPORAIN (FAR)</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Avenue Debourg - Angle avenue Jean Jaurès</string>
+		<key>number</key>
+		<integer>7005</integer>
+		<key>longitude</key>
+		<real>4.833996</real>
+		<key>latitude</key>
+		<real>45.73182</real>
+		<key>name</key>
+		<string>DEBOURG</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue Boileau</string>
+		<key>number</key>
+		<integer>6011</integer>
+		<key>longitude</key>
+		<real>4.849402</real>
+		<key>latitude</key>
+		<real>45.768395</real>
+		<key>name</key>
+		<string>6011- MAIRIE DU 6ÈME</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7061</integer>
+		<key>longitude</key>
+		<real>4.843249</real>
+		<key>latitude</key>
+		<real>45.748545</real>
+		<key>name</key>
+		<string>JAURES / UNIVERSITE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>101 cours Charlemagne Lyon 2 direction centre ville. Devant l&apos;hôtel de Région</string>
+		<key>number</key>
+		<integer>2005</integer>
+		<key>longitude</key>
+		<real>4.819284</real>
+		<key>latitude</key>
+		<real>45.740675</real>
+		<key>name</key>
+		<string>CONFLUENCE HÔTEL DE RÉGION</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Angle rue du fort Ste Irénée / Charcot</string>
+		<key>number</key>
+		<integer>5030</integer>
+		<key>longitude</key>
+		<real>4.807811</real>
+		<key>latitude</key>
+		<real>45.755054</real>
+		<key>name</key>
+		<string>CHARCOT / RÉSIDENCE UNIVERSITAIRE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>8039</integer>
+		<key>longitude</key>
+		<real>4.852412</real>
+		<key>latitude</key>
+		<real>45.738617</real>
+		<key>name</key>
+		<string>PIERRE DELORE</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>7062</integer>
+		<key>longitude</key>
+		<real>4.85162</real>
+		<key>latitude</key>
+		<real>45.747735</real>
+		<key>name</key>
+		<string>GARIBALDI / DOMER</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Face au cours Albert Thomas</string>
+		<key>number</key>
+		<integer>8002</integer>
+		<key>longitude</key>
+		<real>4.871604</real>
+		<key>latitude</key>
+		<real>45.745296</real>
+		<key>name</key>
+		<string>8002- PLACE AMBROISE COURTOIS</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Av Piaton / angle Condorcet</string>
+		<key>number</key>
+		<integer>10007</integer>
+		<key>longitude</key>
+		<real>4.867512</real>
+		<key>latitude</key>
+		<real>45.774204</real>
+		<key>name</key>
+		<string>PIATON / CONDORCET</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string></string>
+		<key>number</key>
+		<integer>9033</integer>
+		<key>longitude</key>
+		<real>4.805626</real>
+		<key>latitude</key>
+		<real>45.767484</real>
+		<key>name</key>
+		<string>GORGE DE LOUP</string>
+	</dict>
+	<dict>
+		<key>address</key>
+		<string>Devant le n°63 rue de Trion</string>
+		<key>number</key>
+		<integer>5001</integer>
+		<key>longitude</key>
+		<real>4.815064</real>
+		<key>latitude</key>
+		<real>45.757319</real>
+		<key>name</key>
+		<string>PLACE VARILLON (FUNICULAIRE ST JUST)</string>
+	</dict>
+</array>
+</plist>

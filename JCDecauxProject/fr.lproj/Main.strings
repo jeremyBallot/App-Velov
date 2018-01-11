@@ -1,0 +1,36 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "9cx-1c-vnX"; */
+"9cx-1c-vnX.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BOt-cv-a8F"; */
+"BOt-cv-a8F.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "J1L-pR-pO9"; */
+"J1L-pR-pO9.text" = "Label";
+
+/* Class = "UIBarButtonItem"; title = "add"; ObjectID = "Qk2-7n-7dy"; */
+"Qk2-7n-7dy.title" = "Ajouter";
+
+/* Class = "UITabBarItem"; title = "Map"; ObjectID = "S3r-iT-E3n"; */
+"S3r-iT-E3n.title" = "Carte";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "T2a-XU-dCn"; */
+"T2a-XU-dCn.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Favoris"; ObjectID = "V09-gl-RHu"; */
+"V09-gl-RHu.title" = "Favoris";
+
+/* Class = "UITabBarItem"; title = "List Station"; ObjectID = "WdF-wa-BDT"; */
+"WdF-wa-BDT.title" = "Liste Stations";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ZOc-7M-GSd"; */
+"ZOc-7M-GSd.text" = "Label";
+
+/* Class = "UILabel"; text = "Aucune station en favoris"; ObjectID = "h7r-Us-JNf"; */
+"h7r-Us-JNf.text" = "Aucune station en favoris";
+
+/* Class = "UITabBarItem"; title = "Favoris"; ObjectID = "lVI-W6-bLk"; */
+"lVI-W6-bLk.title" = "Favoris";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vFF-84-j16"; */
+"vFF-84-j16.text" = "Label";

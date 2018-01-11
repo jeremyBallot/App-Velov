@@ -7,16 +7,58 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F01B9CB1FDEAF3D00A26D44 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F01B9CD1FDEAF3D00A26D44 /* Localizable.strings */; };
+		0F01B9D21FDEB17C00A26D44 /* translate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F01B9D11FDEB17C00A26D44 /* translate.swift */; };
+		0F01B9D31FDEB68C00A26D44 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0F01B9CD1FDEAF3D00A26D44 /* Localizable.strings */; };
+		0F01B9D41FDEB6A800A26D44 /* translate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F01B9D11FDEB17C00A26D44 /* translate.swift */; };
+		0F179D171FD155C300CE1DD6 /* StationFavWidgetTableViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F179D161FD155C300CE1DD6 /* StationFavWidgetTableViewExtension.swift */; };
+		0F179D181FD1574900CE1DD6 /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0841FCD6B98004A57FD /* API.swift */; };
+		0F179D191FD1574C00CE1DD6 /* APIRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0831FCD6B98004A57FD /* APIRequest.swift */; };
+		0F179D1A1FD1575000CE1DD6 /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0881FCD6BAE004A57FD /* Router.swift */; };
+		0F179D1B1FD1575300CE1DD6 /* RouterRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0891FCD6BAE004A57FD /* RouterRequest.swift */; };
+		0F179D1F1FD175FE00CE1DD6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0F179D1E1FD175FE00CE1DD6 /* Assets.xcassets */; };
+		0F72FD831FCEC12800CECADC /* NotificationCenter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F72FD821FCEC12800CECADC /* NotificationCenter.framework */; };
+		0F72FD861FCEC12800CECADC /* TodayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F72FD851FCEC12800CECADC /* TodayViewController.swift */; };
+		0F72FD891FCEC12800CECADC /* MainInterface.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F72FD871FCEC12800CECADC /* MainInterface.storyboard */; };
+		0F72FD931FCEC3C800CECADC /* WidgetStationTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F72FD921FCEC3C800CECADC /* WidgetStationTableViewCell.swift */; };
+		0F72FD971FCEC78800CECADC /* UserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F72FD961FCEC78800CECADC /* UserDefaults.swift */; };
+		0F72FD981FCEC90800CECADC /* UserDefaults.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F72FD961FCEC78800CECADC /* UserDefaults.swift */; };
+		0F72FD9B1FCEDB7000CECADC /* favStationTableViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F72FD9A1FCEDB7000CECADC /* favStationTableViewExtension.swift */; };
+		0F72FD9D1FCEDDB700CECADC /* FavStationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0F72FD9C1FCEDDB700CECADC /* FavStationCell.swift */; };
+		0F72FDA01FCEEA3700CECADC /* JCDeacauxProject.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = 0F72FD801FCEC12800CECADC /* JCDeacauxProject.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 		0FCDF0541FCD6B53004A57FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0531FCD6B53004A57FD /* AppDelegate.swift */; };
 		0FCDF0561FCD6B53004A57FD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0551FCD6B53004A57FD /* ViewController.swift */; };
 		0FCDF0591FCD6B53004A57FD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FCDF0571FCD6B53004A57FD /* Main.storyboard */; };
-		0FCDF05B1FCD6B53004A57FD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0FCDF05A1FCD6B53004A57FD /* Assets.xcassets */; };
 		0FCDF05E1FCD6B53004A57FD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0FCDF05C1FCD6B53004A57FD /* LaunchScreen.storyboard */; };
 		0FCDF0691FCD6B53004A57FD /* JCDecauxProjectTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0681FCD6B53004A57FD /* JCDecauxProjectTests.swift */; };
 		0FCDF0741FCD6B53004A57FD /* JCDecauxProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0731FCD6B53004A57FD /* JCDecauxProjectUITests.swift */; };
+		0FCDF0851FCD6B98004A57FD /* APIRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0831FCD6B98004A57FD /* APIRequest.swift */; };
+		0FCDF0861FCD6B98004A57FD /* API.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0841FCD6B98004A57FD /* API.swift */; };
+		0FCDF08A1FCD6BAE004A57FD /* Router.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0881FCD6BAE004A57FD /* Router.swift */; };
+		0FCDF08B1FCD6BAE004A57FD /* RouterRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0891FCD6BAE004A57FD /* RouterRequest.swift */; };
+		0FCDF08F1FCD6C89004A57FD /* MapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF08E1FCD6C89004A57FD /* MapViewController.swift */; };
+		0FCDF0911FCD6E52004A57FD /* StationClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0901FCD6E52004A57FD /* StationClass.swift */; };
+		0FCDF0931FCD6F13004A57FD /* InitlocaLocationBike.plist in Resources */ = {isa = PBXBuildFile; fileRef = 0FCDF0921FCD6F13004A57FD /* InitlocaLocationBike.plist */; };
+		0FCDF0971FCD6FB3004A57FD /* CustomCalloutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0951FCD6FB3004A57FD /* CustomCalloutView.swift */; };
+		0FCDF0981FCD6FB3004A57FD /* StationLive.xib in Resources */ = {isa = PBXBuildFile; fileRef = 0FCDF0961FCD6FB3004A57FD /* StationLive.xib */; };
+		0FCDF09A1FCD70C5004A57FD /* AnnotationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0991FCD70C5004A57FD /* AnnotationView.swift */; };
+		0FCDF09C1FCD7939004A57FD /* ListStationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF09B1FCD7939004A57FD /* ListStationViewController.swift */; };
+		0FCDF0A11FCD7AB0004A57FD /* tableExtentionControlleur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0A01FCD7AB0004A57FD /* tableExtentionControlleur.swift */; };
+		0FCDF0A31FCD7DD6004A57FD /* StationCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0A21FCD7DD6004A57FD /* StationCell.swift */; };
+		0FCDF0A51FCD97A0004A57FD /* ListStationForFav.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0A41FCD97A0004A57FD /* ListStationForFav.swift */; };
+		0FCDF0A91FCD97DD004A57FD /* tableViewExtention.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0A81FCD97DD004A57FD /* tableViewExtention.swift */; };
+		0FCDF0AB1FCD9E60004A57FD /* StationForFavCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0AA1FCD9E60004A57FD /* StationForFavCell.swift */; };
+		0FCDF0AD1FCDA151004A57FD /* ParameterViewControlleur.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0FCDF0AC1FCDA151004A57FD /* ParameterViewControlleur.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		0F72FD9E1FCEE9F700CECADC /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 0FCDF0481FCD6B53004A57FD /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 0F72FD7F1FCEC12800CECADC;
+			remoteInfo = JCDeacauxProject;
+		};
 		0FCDF0651FCD6B53004A57FD /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 0FCDF0481FCD6B53004A57FD /* Project object */;
@@ -33,12 +75,45 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		0F72FD911FCEC12800CECADC /* Embed App Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				0F72FDA01FCEEA3700CECADC /* JCDeacauxProject.appex in Embed App Extensions */,
+			);
+			name = "Embed App Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		0F01B9C41FDEADF200A26D44 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Main.strings; sourceTree = "<group>"; };
+		0F01B9C61FDEADF200A26D44 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/MainInterface.strings; sourceTree = "<group>"; };
+		0F01B9CA1FDEAF0100A26D44 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		0F01B9CC1FDEAF3D00A26D44 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0F01B9CE1FDEAF4100A26D44 /* fr */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = fr; path = fr.lproj/Localizable.strings; sourceTree = "<group>"; };
+		0F01B9D01FDEAF5700A26D44 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Main.strings; sourceTree = "<group>"; };
+		0F01B9D11FDEB17C00A26D44 /* translate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = translate.swift; sourceTree = "<group>"; };
+		0F179D161FD155C300CE1DD6 /* StationFavWidgetTableViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationFavWidgetTableViewExtension.swift; sourceTree = "<group>"; };
+		0F179D1E1FD175FE00CE1DD6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		0F72FD801FCEC12800CECADC /* JCDeacauxProject.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = JCDeacauxProject.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		0F72FD821FCEC12800CECADC /* NotificationCenter.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = NotificationCenter.framework; path = System/Library/Frameworks/NotificationCenter.framework; sourceTree = SDKROOT; };
+		0F72FD851FCEC12800CECADC /* TodayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodayViewController.swift; sourceTree = "<group>"; };
+		0F72FD881FCEC12800CECADC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/MainInterface.storyboard; sourceTree = "<group>"; };
+		0F72FD8A1FCEC12800CECADC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0F72FD921FCEC3C800CECADC /* WidgetStationTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WidgetStationTableViewCell.swift; sourceTree = "<group>"; };
+		0F72FD941FCEC6E700CECADC /* JCDecauxProject.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JCDecauxProject.entitlements; sourceTree = "<group>"; };
+		0F72FD951FCEC74700CECADC /* JCDeacauxProject.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = JCDeacauxProject.entitlements; sourceTree = "<group>"; };
+		0F72FD961FCEC78800CECADC /* UserDefaults.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserDefaults.swift; sourceTree = "<group>"; };
+		0F72FD9A1FCEDB7000CECADC /* favStationTableViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = favStationTableViewExtension.swift; sourceTree = "<group>"; };
+		0F72FD9C1FCEDDB700CECADC /* FavStationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavStationCell.swift; sourceTree = "<group>"; };
 		0FCDF0501FCD6B53004A57FD /* JCDecauxProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = JCDecauxProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FCDF0531FCD6B53004A57FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		0FCDF0551FCD6B53004A57FD /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		0FCDF0581FCD6B53004A57FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		0FCDF05A1FCD6B53004A57FD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0FCDF05D1FCD6B53004A57FD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0FCDF05F1FCD6B53004A57FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0FCDF0641FCD6B53004A57FD /* JCDecauxProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JCDecauxProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -47,9 +122,34 @@
 		0FCDF06F1FCD6B53004A57FD /* JCDecauxProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JCDecauxProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		0FCDF0731FCD6B53004A57FD /* JCDecauxProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JCDecauxProjectUITests.swift; sourceTree = "<group>"; };
 		0FCDF0751FCD6B53004A57FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0FCDF0831FCD6B98004A57FD /* APIRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = APIRequest.swift; sourceTree = "<group>"; };
+		0FCDF0841FCD6B98004A57FD /* API.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = API.swift; sourceTree = "<group>"; };
+		0FCDF0881FCD6BAE004A57FD /* Router.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Router.swift; sourceTree = "<group>"; };
+		0FCDF0891FCD6BAE004A57FD /* RouterRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouterRequest.swift; sourceTree = "<group>"; };
+		0FCDF08E1FCD6C89004A57FD /* MapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapViewController.swift; sourceTree = "<group>"; };
+		0FCDF0901FCD6E52004A57FD /* StationClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StationClass.swift; sourceTree = "<group>"; };
+		0FCDF0921FCD6F13004A57FD /* InitlocaLocationBike.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = InitlocaLocationBike.plist; sourceTree = "<group>"; };
+		0FCDF0951FCD6FB3004A57FD /* CustomCalloutView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomCalloutView.swift; sourceTree = "<group>"; };
+		0FCDF0961FCD6FB3004A57FD /* StationLive.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = StationLive.xib; sourceTree = "<group>"; };
+		0FCDF0991FCD70C5004A57FD /* AnnotationView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AnnotationView.swift; sourceTree = "<group>"; };
+		0FCDF09B1FCD7939004A57FD /* ListStationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListStationViewController.swift; sourceTree = "<group>"; };
+		0FCDF0A01FCD7AB0004A57FD /* tableExtentionControlleur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableExtentionControlleur.swift; sourceTree = "<group>"; };
+		0FCDF0A21FCD7DD6004A57FD /* StationCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationCell.swift; sourceTree = "<group>"; };
+		0FCDF0A41FCD97A0004A57FD /* ListStationForFav.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListStationForFav.swift; sourceTree = "<group>"; };
+		0FCDF0A81FCD97DD004A57FD /* tableViewExtention.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableViewExtention.swift; sourceTree = "<group>"; };
+		0FCDF0AA1FCD9E60004A57FD /* StationForFavCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StationForFavCell.swift; sourceTree = "<group>"; };
+		0FCDF0AC1FCDA151004A57FD /* ParameterViewControlleur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParameterViewControlleur.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		0F72FD7D1FCEC12800CECADC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F72FD831FCEC12800CECADC /* NotificationCenter.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0FCDF04D1FCD6B53004A57FD /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -74,12 +174,45 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0F72FD811FCEC12800CECADC /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				0F72FD821FCEC12800CECADC /* NotificationCenter.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		0F72FD841FCEC12800CECADC /* JCDeacauxProject */ = {
+			isa = PBXGroup;
+			children = (
+				0F72FD951FCEC74700CECADC /* JCDeacauxProject.entitlements */,
+				0F72FD851FCEC12800CECADC /* TodayViewController.swift */,
+				0F179D161FD155C300CE1DD6 /* StationFavWidgetTableViewExtension.swift */,
+				0F72FD921FCEC3C800CECADC /* WidgetStationTableViewCell.swift */,
+				0F72FD871FCEC12800CECADC /* MainInterface.storyboard */,
+				0F72FD8A1FCEC12800CECADC /* Info.plist */,
+			);
+			path = JCDeacauxProject;
+			sourceTree = "<group>";
+		};
+		0F72FD991FCEDB2800CECADC /* parameter */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF0AC1FCDA151004A57FD /* ParameterViewControlleur.swift */,
+				0F72FD9C1FCEDDB700CECADC /* FavStationCell.swift */,
+				0F72FD9A1FCEDB7000CECADC /* favStationTableViewExtension.swift */,
+			);
+			path = parameter;
+			sourceTree = "<group>";
+		};
 		0FCDF0471FCD6B53004A57FD = {
 			isa = PBXGroup;
 			children = (
 				0FCDF0521FCD6B53004A57FD /* JCDecauxProject */,
 				0FCDF0671FCD6B53004A57FD /* JCDecauxProjectTests */,
 				0FCDF0721FCD6B53004A57FD /* JCDecauxProjectUITests */,
+				0F72FD841FCEC12800CECADC /* JCDeacauxProject */,
+				0F72FD811FCEC12800CECADC /* Frameworks */,
 				0FCDF0511FCD6B53004A57FD /* Products */,
 			);
 			sourceTree = "<group>";
@@ -90,6 +223,7 @@
 				0FCDF0501FCD6B53004A57FD /* JCDecauxProject.app */,
 				0FCDF0641FCD6B53004A57FD /* JCDecauxProjectTests.xctest */,
 				0FCDF06F1FCD6B53004A57FD /* JCDecauxProjectUITests.xctest */,
+				0F72FD801FCEC12800CECADC /* JCDeacauxProject.appex */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -97,12 +231,23 @@
 		0FCDF0521FCD6B53004A57FD /* JCDecauxProject */ = {
 			isa = PBXGroup;
 			children = (
+				0F72FD941FCEC6E700CECADC /* JCDecauxProject.entitlements */,
+				0FCDF0921FCD6F13004A57FD /* InitlocaLocationBike.plist */,
+				0F01B9CD1FDEAF3D00A26D44 /* Localizable.strings */,
+				0FCDF0901FCD6E52004A57FD /* StationClass.swift */,
+				0F01B9D11FDEB17C00A26D44 /* translate.swift */,
 				0FCDF0531FCD6B53004A57FD /* AppDelegate.swift */,
+				0F72FD961FCEC78800CECADC /* UserDefaults.swift */,
 				0FCDF0551FCD6B53004A57FD /* ViewController.swift */,
 				0FCDF0571FCD6B53004A57FD /* Main.storyboard */,
-				0FCDF05A1FCD6B53004A57FD /* Assets.xcassets */,
-				0FCDF05C1FCD6B53004A57FD /* LaunchScreen.storyboard */,
 				0FCDF05F1FCD6B53004A57FD /* Info.plist */,
+				0F179D1E1FD175FE00CE1DD6 /* Assets.xcassets */,
+				0FCDF05C1FCD6B53004A57FD /* LaunchScreen.storyboard */,
+				0FCDF0A61FCD97A4004A57FD /* parameter */,
+				0FCDF09D1FCD7940004A57FD /* ListStation */,
+				0FCDF08D1FCD6C03004A57FD /* MAP */,
+				0FCDF08C1FCD6BB3004A57FD /* Router */,
+				0FCDF0871FCD6B9B004A57FD /* API */,
 			);
 			path = JCDecauxProject;
 			sourceTree = "<group>";
@@ -125,9 +270,92 @@
 			path = JCDecauxProjectUITests;
 			sourceTree = "<group>";
 		};
+		0FCDF0871FCD6B9B004A57FD /* API */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF0831FCD6B98004A57FD /* APIRequest.swift */,
+				0FCDF0841FCD6B98004A57FD /* API.swift */,
+			);
+			path = API;
+			sourceTree = "<group>";
+		};
+		0FCDF08C1FCD6BB3004A57FD /* Router */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF0891FCD6BAE004A57FD /* RouterRequest.swift */,
+				0FCDF0881FCD6BAE004A57FD /* Router.swift */,
+			);
+			path = Router;
+			sourceTree = "<group>";
+		};
+		0FCDF08D1FCD6C03004A57FD /* MAP */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF08E1FCD6C89004A57FD /* MapViewController.swift */,
+				0FCDF0941FCD6F9D004A57FD /* AnnotationCustom */,
+			);
+			path = MAP;
+			sourceTree = "<group>";
+		};
+		0FCDF0941FCD6F9D004A57FD /* AnnotationCustom */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF0991FCD70C5004A57FD /* AnnotationView.swift */,
+				0FCDF0951FCD6FB3004A57FD /* CustomCalloutView.swift */,
+				0FCDF0961FCD6FB3004A57FD /* StationLive.xib */,
+			);
+			path = AnnotationCustom;
+			sourceTree = "<group>";
+		};
+		0FCDF09D1FCD7940004A57FD /* ListStation */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF09B1FCD7939004A57FD /* ListStationViewController.swift */,
+				0FCDF0A21FCD7DD6004A57FD /* StationCell.swift */,
+				0FCDF0A01FCD7AB0004A57FD /* tableExtentionControlleur.swift */,
+			);
+			path = ListStation;
+			sourceTree = "<group>";
+		};
+		0FCDF0A61FCD97A4004A57FD /* parameter */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF0A71FCD97B2004A57FD /* ListStationforAdd */,
+				0F72FD991FCEDB2800CECADC /* parameter */,
+			);
+			path = parameter;
+			sourceTree = "<group>";
+		};
+		0FCDF0A71FCD97B2004A57FD /* ListStationforAdd */ = {
+			isa = PBXGroup;
+			children = (
+				0FCDF0A41FCD97A0004A57FD /* ListStationForFav.swift */,
+				0FCDF0AA1FCD9E60004A57FD /* StationForFavCell.swift */,
+				0FCDF0A81FCD97DD004A57FD /* tableViewExtention.swift */,
+			);
+			path = ListStationforAdd;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		0F72FD7F1FCEC12800CECADC /* JCDeacauxProject */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 0F72FD901FCEC12800CECADC /* Build configuration list for PBXNativeTarget "JCDeacauxProject" */;
+			buildPhases = (
+				0F72FD7C1FCEC12800CECADC /* Sources */,
+				0F72FD7D1FCEC12800CECADC /* Frameworks */,
+				0F72FD7E1FCEC12800CECADC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = JCDeacauxProject;
+			productName = JCDeacauxProject;
+			productReference = 0F72FD801FCEC12800CECADC /* JCDeacauxProject.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		0FCDF04F1FCD6B53004A57FD /* JCDecauxProject */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 0FCDF0781FCD6B53004A57FD /* Build configuration list for PBXNativeTarget "JCDecauxProject" */;
@@ -135,10 +363,12 @@
 				0FCDF04C1FCD6B53004A57FD /* Sources */,
 				0FCDF04D1FCD6B53004A57FD /* Frameworks */,
 				0FCDF04E1FCD6B53004A57FD /* Resources */,
+				0F72FD911FCEC12800CECADC /* Embed App Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				0F72FD9F1FCEE9F700CECADC /* PBXTargetDependency */,
 			);
 			name = JCDecauxProject;
 			productName = JCDecauxProject;
@@ -191,9 +421,23 @@
 				LastUpgradeCheck = 0910;
 				ORGANIZATIONNAME = "jeremy ballot";
 				TargetAttributes = {
+					0F72FD7F1FCEC12800CECADC = {
+						CreatedOnToolsVersion = 9.1;
+						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
+					};
 					0FCDF04F1FCD6B53004A57FD = {
 						CreatedOnToolsVersion = 9.1;
 						ProvisioningStyle = Automatic;
+						SystemCapabilities = {
+							com.apple.ApplicationGroups.iOS = {
+								enabled = 1;
+							};
+						};
 					};
 					0FCDF0631FCD6B53004A57FD = {
 						CreatedOnToolsVersion = 9.1;
@@ -214,6 +458,7 @@
 			knownRegions = (
 				en,
 				Base,
+				fr,
 			);
 			mainGroup = 0FCDF0471FCD6B53004A57FD;
 			productRefGroup = 0FCDF0511FCD6B53004A57FD /* Products */;
@@ -223,18 +468,31 @@
 				0FCDF04F1FCD6B53004A57FD /* JCDecauxProject */,
 				0FCDF0631FCD6B53004A57FD /* JCDecauxProjectTests */,
 				0FCDF06E1FCD6B53004A57FD /* JCDecauxProjectUITests */,
+				0F72FD7F1FCEC12800CECADC /* JCDeacauxProject */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		0F72FD7E1FCEC12800CECADC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F72FD891FCEC12800CECADC /* MainInterface.storyboard in Resources */,
+				0F01B9D31FDEB68C00A26D44 /* Localizable.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0FCDF04E1FCD6B53004A57FD /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0FCDF0981FCD6FB3004A57FD /* StationLive.xib in Resources */,
+				0F01B9CB1FDEAF3D00A26D44 /* Localizable.strings in Resources */,
 				0FCDF05E1FCD6B53004A57FD /* LaunchScreen.storyboard in Resources */,
-				0FCDF05B1FCD6B53004A57FD /* Assets.xcassets in Resources */,
 				0FCDF0591FCD6B53004A57FD /* Main.storyboard in Resources */,
+				0FCDF0931FCD6F13004A57FD /* InitlocaLocationBike.plist in Resources */,
+				0F179D1F1FD175FE00CE1DD6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -255,12 +513,47 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		0F72FD7C1FCEC12800CECADC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0F179D1B1FD1575300CE1DD6 /* RouterRequest.swift in Sources */,
+				0F72FD931FCEC3C800CECADC /* WidgetStationTableViewCell.swift in Sources */,
+				0F72FD861FCEC12800CECADC /* TodayViewController.swift in Sources */,
+				0F179D171FD155C300CE1DD6 /* StationFavWidgetTableViewExtension.swift in Sources */,
+				0F179D1A1FD1575000CE1DD6 /* Router.swift in Sources */,
+				0F72FD981FCEC90800CECADC /* UserDefaults.swift in Sources */,
+				0F01B9D41FDEB6A800A26D44 /* translate.swift in Sources */,
+				0F179D191FD1574C00CE1DD6 /* APIRequest.swift in Sources */,
+				0F179D181FD1574900CE1DD6 /* API.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		0FCDF04C1FCD6B53004A57FD /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				0FCDF0561FCD6B53004A57FD /* ViewController.swift in Sources */,
+				0FCDF0A91FCD97DD004A57FD /* tableViewExtention.swift in Sources */,
+				0FCDF0851FCD6B98004A57FD /* APIRequest.swift in Sources */,
+				0FCDF08B1FCD6BAE004A57FD /* RouterRequest.swift in Sources */,
+				0FCDF09C1FCD7939004A57FD /* ListStationViewController.swift in Sources */,
+				0FCDF0971FCD6FB3004A57FD /* CustomCalloutView.swift in Sources */,
+				0FCDF08A1FCD6BAE004A57FD /* Router.swift in Sources */,
+				0FCDF0861FCD6B98004A57FD /* API.swift in Sources */,
+				0FCDF0AB1FCD9E60004A57FD /* StationForFavCell.swift in Sources */,
+				0FCDF0911FCD6E52004A57FD /* StationClass.swift in Sources */,
+				0FCDF0A51FCD97A0004A57FD /* ListStationForFav.swift in Sources */,
+				0FCDF09A1FCD70C5004A57FD /* AnnotationView.swift in Sources */,
+				0FCDF0A31FCD7DD6004A57FD /* StationCell.swift in Sources */,
+				0FCDF0A11FCD7AB0004A57FD /* tableExtentionControlleur.swift in Sources */,
+				0F72FD9D1FCEDDB700CECADC /* FavStationCell.swift in Sources */,
+				0F72FD971FCEC78800CECADC /* UserDefaults.swift in Sources */,
 				0FCDF0541FCD6B53004A57FD /* AppDelegate.swift in Sources */,
+				0FCDF08F1FCD6C89004A57FD /* MapViewController.swift in Sources */,
+				0F01B9D21FDEB17C00A26D44 /* translate.swift in Sources */,
+				0FCDF0AD1FCDA151004A57FD /* ParameterViewControlleur.swift in Sources */,
+				0F72FD9B1FCEDB7000CECADC /* favStationTableViewExtension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,6 +576,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		0F72FD9F1FCEE9F700CECADC /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 0F72FD7F1FCEC12800CECADC /* JCDeacauxProject */;
+			targetProxy = 0F72FD9E1FCEE9F700CECADC /* PBXContainerItemProxy */;
+		};
 		0FCDF0661FCD6B53004A57FD /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 0FCDF04F1FCD6B53004A57FD /* JCDecauxProject */;
@@ -296,10 +594,30 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
+		0F01B9CD1FDEAF3D00A26D44 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0F01B9CC1FDEAF3D00A26D44 /* en */,
+				0F01B9CE1FDEAF4100A26D44 /* fr */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+		0F72FD871FCEC12800CECADC /* MainInterface.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				0F72FD881FCEC12800CECADC /* Base */,
+				0F01B9C61FDEADF200A26D44 /* fr */,
+			);
+			name = MainInterface.storyboard;
+			sourceTree = "<group>";
+		};
 		0FCDF0571FCD6B53004A57FD /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
 				0FCDF0581FCD6B53004A57FD /* Base */,
+				0F01B9C41FDEADF200A26D44 /* fr */,
+				0F01B9D01FDEAF5700A26D44 /* en */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -308,6 +626,7 @@
 			isa = PBXVariantGroup;
 			children = (
 				0FCDF05D1FCD6B53004A57FD /* Base */,
+				0F01B9CA1FDEAF0100A26D44 /* en */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -315,10 +634,43 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		0F72FD8E1FCEC12800CECADC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = JCDeacauxProject/JCDeacauxProject.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 978QG4455Y;
+				INFOPLIST_FILE = JCDeacauxProject/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Velov.JCDecauxProject.JCDeacauxProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		0F72FD8F1FCEC12800CECADC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_ENTITLEMENTS = JCDeacauxProject/JCDeacauxProject.entitlements;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 978QG4455Y;
+				INFOPLIST_FILE = JCDeacauxProject/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @executable_path/../../Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = Velov.JCDecauxProject.JCDeacauxProject;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 4.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		0FCDF0761FCD6B53004A57FD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -376,6 +728,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_ANALYZER_NONNULL = YES;
 				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
@@ -425,8 +778,11 @@
 		0FCDF0791FCD6B53004A57FD /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = JCDecauxProject/JCDecauxProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 978QG4455Y;
 				INFOPLIST_FILE = JCDecauxProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Velov.JCDecauxProject;
@@ -439,8 +795,11 @@
 		0FCDF07A1FCD6B53004A57FD /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_ENTITLEMENTS = JCDecauxProject/JCDecauxProject.entitlements;
 				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = 978QG4455Y;
 				INFOPLIST_FILE = JCDecauxProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Velov.JCDecauxProject;
@@ -515,6 +874,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		0F72FD901FCEC12800CECADC /* Build configuration list for PBXNativeTarget "JCDeacauxProject" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				0F72FD8E1FCEC12800CECADC /* Debug */,
+				0F72FD8F1FCEC12800CECADC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		0FCDF04B1FCD6B53004A57FD /* Build configuration list for PBXProject "JCDecauxProject" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
